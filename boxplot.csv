@@ -1,0 +1,5566 @@
+﻿Variables,Values
+Age,45
+Age,63
+Age,62
+Age,62
+Age,73
+Age,55
+Age,64
+Age,40
+Age,75
+Age,55
+Age,40
+Age,75
+Age,75
+Age,56
+Age,65
+Age,48
+Age,54
+Age,66
+Age,50
+Age,56
+Age,55
+Age,53
+Age,56
+Age,58
+Age,28
+Age,55
+Age,73
+Age,45
+Age,70
+Age,70
+Age,69
+Age,50
+Age,53
+Age,59
+Age,72
+Age,45
+Age,45
+Age,60
+Age,60
+Age,69
+Age,65
+Age,45
+Age,38
+Age,48
+Age,56
+Age,75
+Age,32
+Age,63
+Age,62
+Age,25
+Age,66
+Age,35
+Age,45
+Age,60
+Age,52
+Age,56
+Age,74
+Age,31
+Age,70
+Age,45
+Age,65
+Age,51
+Age,56
+Age,60
+Age,69
+Age,50
+Age,52
+Age,58
+Age,33
+Age,50
+Age,64
+Age,55
+Age,24
+Age,55
+Age,60
+Age,55
+Age,32
+Age,58
+Age,55
+Age,35
+Age,60
+Age,40
+Age,45
+Age,61
+Age,41
+Age,52
+Age,60
+Age,58
+Age,60
+Age,60
+Age,60
+Age,65
+Age,56
+Age,50
+Age,65
+Age,59
+Age,55
+Age,55
+Age,33
+Age,58
+Age,60
+Age,48
+Age,48
+Age,50
+Age,38
+Age,38
+Age,65
+Age,55
+Age,26
+Age,65
+Age,38
+Age,44
+Age,56
+Age,45
+Age,50
+Age,60
+Age,50
+Age,55
+Age,50
+Age,52
+Age,65
+Age,55
+Age,67
+Age,48
+Age,40
+Age,27
+Age,45
+Age,40
+Age,50
+Age,45
+Age,32
+Age,60
+Age,28
+Age,32
+Age,37
+Age,45
+Age,50
+Age,27
+Age,28
+Age,56
+Age,50
+Age,55
+Age,45
+Age,42
+Age,32
+Age,45
+Age,80
+Age,35
+Age,35
+Age,50
+Age,50
+Age,30
+Age,35
+Age,35
+Age,50
+Age,50
+Age,65
+Age,40
+Age,35
+Age,50
+Age,50
+Age,35
+Age,45
+Age,60
+Age,50
+Age,40
+Age,60
+Age,60
+Age,45
+Age,50
+Age,40
+Age,40
+Age,60
+Age,50
+Age,50
+Age,40
+Age,60
+Age,45
+Age,60
+Age,40
+Age,60
+Age,39
+Age,50
+Age,50
+Age,45
+Age,40
+Age,65
+Age,65
+Age,60
+Age,34
+Age,61
+Age,39
+Age,47
+Age,48
+Age,42
+Age,55
+Age,50
+Age,63
+Age,56
+Age,65
+Age,45
+Age,42
+Age,40
+Age,70
+Age,38
+Age,30
+Age,35
+Age,47
+Age,70
+Age,52
+Age,41
+Age,42
+Age,68
+Age,59
+Age,62
+Age,50
+Age,55
+Age,50
+Age,63
+Age,48
+Age,45
+Age,32
+Age,38
+Age,40
+Age,52
+Age,58
+Age,56
+Age,42
+Age,43
+Age,58
+Age,34
+Age,60
+Age,67
+Age,62
+Age,52
+Age,63
+Age,44
+Age,62
+Age,62
+Age,53
+Age,70
+Age,48
+Age,50
+Age,55
+Age,62
+Age,70
+Age,58
+Age,54
+Age,60
+Age,52
+Age,73
+Age,61
+Age,49
+Age,28
+Age,30
+Age,50
+Age,24
+Age,49
+Age,50
+Age,55
+Age,52
+Age,35
+Age,55
+Age,63
+Age,40
+Age,47
+Age,55
+Age,65
+Age,65
+Age,32
+Age,38
+Age,38
+Age,56
+Age,42
+Age,56
+Age,41
+Age,40
+Age,67
+Age,68
+Age,47
+Age,36
+Age,45
+Age,43
+Age,35
+Age,55
+Age,50
+Age,37
+Age,40
+Age,58
+Age,33
+Age,50
+Age,63
+Age,40
+Age,55
+Age,45
+Age,40
+Age,42
+Age,40
+Age,60
+Age,32
+Age,55
+Age,55
+Age,40
+Age,45
+Age,43
+Age,55
+Age,35
+Age,40
+Age,50
+Age,70
+Age,40
+Age,52
+Age,45
+Age,47
+Age,40
+Age,34
+Age,51
+Age,51
+Age,52
+Age,45
+Age,55
+Age,40
+Age,55
+Age,66
+Age,65
+Age,40
+Age,62
+Age,50
+Age,38
+Age,30
+Age,35
+Age,35
+Age,70
+Age,60
+Age,55
+Age,64
+Age,35
+Age,57
+Age,55
+Age,40
+Age,60
+Age,51
+Age,32
+Age,36
+Age,40
+Age,40
+Age,40
+Age,40
+Age,45
+Age,50
+Age,55
+Age,50
+Age,60
+Age,65
+Age,50
+Age,65
+Age,40
+Age,47
+Age,40
+Age,40
+Age,71
+Age,69
+Age,70
+Age,42
+Age,38
+Age,60
+Age,45
+Age,50
+Age,45
+Age,50
+Age,35
+Education,10
+Education,5
+Education,5
+Education,5
+Education,14
+Education,10
+Education,10
+Education,5
+Education,10
+Education,5
+Education,7
+Education,1
+Education,10
+Education,14
+Education,5
+Education,10
+Education,5
+Education,12
+Education,8
+Education,8
+Education,5
+Education,9
+Education,5
+Education,5
+Education,9
+Education,5
+Education,4
+Education,10
+Education,5
+Education,8
+Education,7
+Education,12
+Education,3
+Education,5
+Education,8
+Education,5
+Education,14
+Education,5
+Education,5
+Education,5
+Education,8
+Education,7
+Education,8
+Education,10
+Education,7
+Education,10
+Education,6
+Education,8
+Education,3
+Education,13
+Education,10
+Education,5
+Education,8
+Education,8
+Education,11
+Education,5
+Education,10
+Education,10
+Education,8
+Education,10
+Education,5
+Education,5
+Education,10
+Education,13
+Education,13
+Education,5
+Education,10
+Education,13
+Education,14
+Education,0
+Education,12
+Education,5
+Education,13
+Education,0
+Education,8
+Education,12
+Education,0
+Education,10
+Education,13
+Education,10
+Education,1
+Education,8
+Education,10
+Education,0
+Education,8
+Education,12
+Education,12
+Education,8
+Education,5
+Education,3
+Education,0
+Education,12
+Education,3
+Education,2
+Education,8
+Education,4
+Education,10
+Education,10
+Education,12
+Education,0
+Education,0
+Education,8
+Education,16
+Education,5
+Education,8
+Education,16
+Education,10
+Education,9
+Education,10
+Education,0
+Education,8
+Education,6
+Education,8
+Education,8
+Education,9
+Education,0
+Education,0
+Education,0
+Education,10
+Education,0
+Education,8
+Education,0
+Education,10
+Education,9
+Education,12
+Education,12
+Education,8
+Education,10
+Education,0
+Education,8
+Education,10
+Education,0
+Education,10
+Education,0
+Education,8
+Education,0
+Education,0
+Education,10
+Education,10
+Education,10
+Education,0
+Education,10
+Education,0
+Education,10
+Education,12
+Education,10
+Education,12
+Education,12
+Education,15
+Education,1
+Education,1
+Education,8
+Education,14
+Education,16
+Education,1
+Education,5
+Education,5
+Education,10
+Education,10
+Education,5
+Education,10
+Education,10
+Education,5
+Education,5
+Education,10
+Education,5
+Education,5
+Education,5
+Education,5
+Education,10
+Education,10
+Education,10
+Education,3
+Education,5
+Education,5
+Education,8
+Education,3
+Education,5
+Education,3
+Education,10
+Education,5
+Education,10
+Education,5
+Education,10
+Education,3
+Education,5
+Education,2
+Education,10
+Education,10
+Education,12
+Education,10
+Education,5
+Education,14
+Education,6
+Education,14
+Education,5
+Education,3
+Education,10
+Education,0
+Education,1
+Education,1
+Education,16
+Education,8
+Education,5
+Education,1
+Education,10
+Education,6
+Education,10
+Education,8
+Education,1
+Education,6
+Education,8
+Education,12
+Education,1
+Education,8
+Education,1
+Education,10
+Education,1
+Education,5
+Education,14
+Education,14
+Education,7
+Education,10
+Education,12
+Education,5
+Education,5
+Education,12
+Education,10
+Education,8
+Education,1
+Education,8
+Education,8
+Education,0
+Education,0
+Education,10
+Education,8
+Education,8
+Education,10
+Education,8
+Education,7
+Education,8
+Education,12
+Education,0
+Education,8
+Education,10
+Education,9
+Education,5
+Education,12
+Education,5
+Education,8
+Education,1
+Education,1
+Education,1
+Education,2
+Education,0
+Education,8
+Education,14
+Education,1
+Education,10
+Education,1
+Education,1
+Education,0
+Education,1
+Education,0
+Education,0
+Education,1
+Education,1
+Education,1
+Education,1
+Education,10
+Education,12
+Education,1
+Education,1
+Education,10
+Education,1
+Education,12
+Education,1
+Education,1
+Education,10
+Education,7
+Education,1
+Education,14
+Education,1
+Education,8
+Education,0
+Education,0
+Education,5
+Education,5
+Education,0
+Education,9
+Education,12
+Education,1
+Education,1
+Education,1
+Education,10
+Education,1
+Education,12
+Education,12
+Education,1
+Education,8
+Education,10
+Education,8
+Education,8
+Education,5
+Education,10
+Education,10
+Education,10
+Education,5
+Education,8
+Education,6
+Education,0
+Education,8
+Education,0
+Education,1
+Education,10
+Education,10
+Education,14
+Education,1
+Education,7
+Education,10
+Education,0
+Education,1
+Education,7
+Education,12
+Education,5
+Education,8
+Education,9
+Education,0
+Education,1
+Education,12
+Education,1
+Education,1
+Education,5
+Education,0
+Education,10
+Education,1
+Education,0
+Education,8
+Education,0
+Education,1
+Education,5
+Education,5
+Education,10
+Education,5
+Education,8
+Education,8
+Education,0
+Education,11
+Education,5
+Education,12
+Education,11
+Education,5
+Education,12
+Education,0
+Education,5
+Education,0
+Education,8
+Education,0
+Education,1
+Education,0
+Education,0
+Education,5
+Education,0
+Education,8
+Education,11
+Education,0
+Education,0
+Education,1
+Education,10
+Education,11
+Education,10
+Area,1.198380567
+Area,2.534412955
+Area,1.465587045
+Area,0.801619433
+Area,0.534412955
+Area,2.4048583
+Area,1.732793522
+Area,0.931174089
+Area,2.534412955
+Area,1.198380567
+Area,0.534412955
+Area,1.068825911
+Area,0.534412955
+Area,1.732793522
+Area,1.603238866
+Area,0.931174089
+Area,1.603238866
+Area,0.801619433
+Area,0.931174089
+Area,0.801619433
+Area,0.801619433
+Area,1.603238866
+Area,0.931174089
+Area,0.267206478
+Area,1.198380567
+Area,1.732793522
+Area,1.336032389
+Area,1.603238866
+Area,0.931174089
+Area,0.931174089
+Area,1.465587045
+Area,2.534412955
+Area,0.396761134
+Area,0.931174089
+Area,1.732793522
+Area,1.198380567
+Area,1.198380567
+Area,0.850202429
+Area,0.801619433
+Area,0.534412955
+Area,0.534412955
+Area,0.801619433
+Area,0.931174089
+Area,1.117408907
+Area,0.534412955
+Area,2.137651822
+Area,0.534412955
+Area,1.336032389
+Area,0.396761134
+Area,1.198380567
+Area,1.336032389
+Area,0.534412955
+Area,0.534412955
+Area,0.931174089
+Area,0.931174089
+Area,0.801619433
+Area,0.663967611
+Area,0.663967611
+Area,0.801619433
+Area,1.198380567
+Area,0.534412955
+Area,1.117408907
+Area,0.534412955
+Area,0.534412955
+Area,0.534412955
+Area,1.068825911
+Area,0.801619433
+Area,0.12145749
+Area,0.396761134
+Area,0.801619433
+Area,1.068825911
+Area,1.068825911
+Area,2.672064777
+Area,0.663967611
+Area,0.12145749
+Area,0.534412955
+Area,1.603238866
+Area,1.068825911
+Area,1.336032389
+Area,0.801619433
+Area,0.801619433
+Area,1.336032389
+Area,0.801619433
+Area,0.534412955
+Area,1.603238866
+Area,2.137651822
+Area,0.534412955
+Area,1.603238866
+Area,1.068825911
+Area,2.137651822
+Area,0.534412955
+Area,1.603238866
+Area,1.603238866
+Area,0.801619433
+Area,2.672064777
+Area,1.469635628
+Area,0.267206478
+Area,0.267206478
+Area,0.931174089
+Area,1.336032389
+Area,0.935222672
+Area,1.469635628
+Area,0.862348178
+Area,1.603238866
+Area,2.20242915
+Area,0.5951417
+Area,1.331983806
+Area,1.469635628
+Area,0.935222672
+Area,1.068825911
+Area,1.870445344
+Area,0.24291498
+Area,0.995951417
+Area,0.396761134
+Area,1.20242915
+Area,2.4048583
+Area,2.20242915
+Area,1.336032389
+Area,1.534412955
+Area,1.372469636
+Area,2.4048583
+Area,0.663967611
+Area,1.870445344
+Area,0.732793522
+Area,1.089068826
+Area,0.534412955
+Area,1.068825911
+Area,1.068825911
+Area,1.603238866
+Area,1.336032389
+Area,1.736842105
+Area,0.935222672
+Area,1.068825911
+Area,1.336032389
+Area,1.603238866
+Area,1.736842105
+Area,0.935222672
+Area,0.801619433
+Area,0.668016194
+Area,1.068825911
+Area,1.469635628
+Area,1.736842105
+Area,1.736842105
+Area,1.736842105
+Area,0.801619433
+Area,0.801619433
+Area,0.801619433
+Area,0.801619433
+Area,0.801619433
+Area,1.068825911
+Area,0.534412955
+Area,0.534412955
+Area,1.870445344
+Area,0.801619433
+Area,0.534412955
+Area,3.607287449
+Area,0.105263158
+Area,0.801619433
+Area,2.137651822
+Area,0.105263158
+Area,1.336032389
+Area,1.870445344
+Area,2.4048583
+Area,1.068825911
+Area,2.939271255
+Area,3.340080972
+Area,2.137651822
+Area,1.097165992
+Area,2.4048583
+Area,1.870445344
+Area,2.271255061
+Area,0.862348178
+Area,1.870445344
+Area,1.469635628
+Area,2.137651822
+Area,3.340080972
+Area,2.672064777
+Area,2.538461538
+Area,3.607287449
+Area,1.336032389
+Area,1.336032389
+Area,2.137651822
+Area,5.611336032
+Area,2.137651822
+Area,1.068825911
+Area,2.137651822
+Area,1.20242915
+Area,4.008097166
+Area,0.526315789
+Area,1.862348178
+Area,1.214574899
+Area,1.214574899
+Area,1.311740891
+Area,0.728744939
+Area,0.809716599
+Area,0.728744939
+Area,0.728744939
+Area,0.36437247
+Area,0.809716599
+Area,1.457489879
+Area,0.728744939
+Area,0.36437247
+Area,0.546558704
+Area,1.093117409
+Area,0.971659919
+Area,0.789473684
+Area,0.769230769
+Area,0.607287449
+Area,0.546558704
+Area,0.910931174
+Area,0.48582996
+Area,1.275303644
+Area,0.943319838
+Area,0.48582996
+Area,0.36437247
+Area,1.55465587
+Area,2.186234818
+Area,0.36437247
+Area,0.425101215
+Area,0.546558704
+Area,0.910931174
+Area,0.603238866
+Area,0.36437247
+Area,1.052631579
+Area,0.728744939
+Area,1.093117409
+Area,1.821862348
+Area,0.728744939
+Area,0.627530364
+Area,1.052631579
+Area,1.20242915
+Area,0.465587045
+Area,0.48582996
+Area,0.728744939
+Area,0.910931174
+Area,0.769230769
+Area,0.303643725
+Area,0.340080972
+Area,1.821862348
+Area,0.692307692
+Area,0.809716599
+Area,1.336032389
+Area,0.182186235
+Area,0.477732794
+Area,0.546558704
+Area,1.336032389
+Area,0.668016194
+Area,0.546558704
+Area,1.275303644
+Area,0.566801619
+Area,0.910931174
+Area,0.465587045
+Area,1.336032389
+Area,0.935222672
+Area,0.935222672
+Area,1.20242915
+Area,1.396761134
+Area,1.101214575
+Area,1.700404858
+Area,1.20242915
+Area,1.534412955
+Area,1.603238866
+Area,1.20242915
+Area,0.866396761
+Area,0.599190283
+Area,1.331983806
+Area,1
+Area,1.20242915
+Area,1.603238866
+Area,0.995951417
+Area,1.63562753
+Area,1.336032389
+Area,0.801619433
+Area,2.004048583
+Area,0.801619433
+Area,0.801619433
+Area,1.396761134
+Area,0.801619433
+Area,2.437246964
+Area,1.295546559
+Area,0.866396761
+Area,0.995951417
+Area,0.801619433
+Area,1.20242915
+Area,0.935222672
+Area,1.668016194
+Area,1.659919028
+Area,0.809716599
+Area,0.809716599
+Area,0.910931174
+Area,1.336032389
+Area,1.052631579
+Area,0.809716599
+Area,1.578947368
+Area,3.238866397
+Area,1.214574899
+Area,1.174089069
+Area,2.429149798
+Area,1.821862348
+Area,1.862348178
+Area,4.453441296
+Area,1.133603239
+Area,0.607287449
+Area,2.226720648
+Area,1.214574899
+Area,0.890688259
+Area,1.821862348
+Area,1.052631579
+Area,1.336032389
+Area,3.036437247
+Area,0.931174089
+Area,0.647773279
+Area,1.457489879
+Area,0.44534413
+Area,1.214574899
+Area,1.821862348
+Area,1.740890688
+Area,0.36437247
+Area,0.627530364
+Area,1.133603239
+Area,1.052631579
+Area,1.012145749
+Area,1.133603239
+Area,2.429149798
+Area,1.619433198
+Area,0.4048583
+Area,0.809716599
+Area,0.931174089
+Area,0.688259109
+Area,0.526315789
+Area,0.36437247
+Area,1.619433198
+Area,0.809716599
+Area,0.607287449
+Area,0.769230769
+Area,0.607287449
+Area,0.829959514
+Area,0.4048583
+Area,0.425101215
+Area,0.48582996
+Area,0.728744939
+Area,1.214574899
+Area,0.890688259
+Area,3.206477733
+Area,2.672064777
+Area,1.336032389
+Area,2.672064777
+Area,2.137651822
+Area,1.068825911
+Area,1.870445344
+Area,1.336032389
+Area,1.068825911
+Area,1.619433198
+Area,1.068825911
+Area,1.336032389
+Area,1.068825911
+Area,1.870445344
+Area,1.068825911
+Area,1.870445344
+Area,1.336032389
+Area,1.336032389
+Area,1.603238866
+Area,1.068825911
+Area,1.068825911
+Area,1.068825911
+Area,0.801619433
+Area,1.20242915
+Area,1.068825911
+Area,2.672064777
+Area,0.935222672
+Area,1.736842105
+Area,247.5636364
+Area,470.4484848
+Area,268.2090909
+Area,144.24
+Area,95.4
+Area,406.8
+Area,314.5151515
+Area,164.4848485
+Area,443.8909091
+Area,217.0218182
+Area,100.22
+Area,189
+Area,96.78
+Area,308.030303
+Area,291.24
+Area,190.2727273
+Area,293.4
+Area,146.52
+Area,182.3272727
+Area,145.2
+Area,148.56
+Area,294.9
+Area,170.4090909
+Area,51
+Area,228.7272727
+Area,334.7478788
+Area,263.7
+Area,312.84
+Area,177.7272727
+Area,178.5984848
+Area,285.98
+Area,483.7272727
+Area,75.72727273
+Area,181.7
+Area,320.6109091
+Area,215.0484848
+Area,209.4424242
+Area,156.5454545
+Area,144.75
+Area,98.7
+Area,100.9
+Area,151.35
+Area,172.3257576
+Area,216.4090909
+Area,101
+Area,422.4
+Area,101.44
+Area,249.6
+Area,74.68787879
+Area,231.4181818
+Area,251.5
+Area,98
+Area,95.8
+Area,174.5909091
+Area,166.9242424
+Area,159.57
+Area,120.2666667
+Area,120.2666667
+Area,154.8
+Area,227.830303
+Area,95.4
+Area,202.4
+Area,99.9
+Area,101.2
+Area,99.94
+Area,186.8
+Area,143.55
+Area,21.22727273
+Area,67.63484848
+Area,137.55
+Area,177.6
+Area,186.8
+Area,467
+Area,113.1848485
+Area,21.22727273
+Area,88.8
+Area,259.5
+Area,177.6
+Area,264.5
+Area,142.8
+Area,150
+Area,225
+Area,135.6
+Area,104.8
+Area,300
+Area,352
+Area,88
+Area,267.12
+Area,180.8
+Area,361.6
+Area,90.4
+Area,271.2
+Area,271.2
+Area,135.6
+Area,452
+Area,240.24
+Area,42.8
+Area,46.95
+Area,188.6
+Area,209.95
+Area,122.7
+Area,202.56
+Area,145.9787879
+Area,262.8
+Area,333.1466667
+Area,73.45545455
+Area,216.8145455
+Area,292.56
+Area,151.94
+Area,180.48
+Area,313.6
+Area,40.4630303
+Area,129.9575758
+Area,63.84848485
+Area,178.05
+Area,436.8
+Area,257.3212121
+Area,224.2
+Area,222.7090909
+Area,215.8590909
+Area,446.8
+Area,103.8666667
+Area,272.44
+Area,95.26666667
+Area,178.0848485
+Area,82
+Area,164
+Area,164
+Area,246
+Area,205
+Area,276.2
+Area,149.6
+Area,168.8
+Area,207.2
+Area,253.2
+Area,276.2
+Area,149.6
+Area,126.6
+Area,107.4
+Area,168.8
+Area,234
+Area,276.2
+Area,276.2
+Area,276.2
+Area,126.6
+Area,126.6
+Area,126.6
+Area,126.6
+Area,126.6
+Area,168.8
+Area,84.4
+Area,84.4
+Area,295.4
+Area,126.6
+Area,84.4
+Area,577.8
+Area,16.13181818
+Area,145.2
+Area,344.4
+Area,17.43181818
+Area,246.75
+Area,288.75
+Area,380.7
+Area,166.8
+Area,506.5
+Area,523
+Area,323.2
+Area,178.4060606
+Area,399.2
+Area,295.4
+Area,334.5
+Area,117.0545455
+Area,270.9
+Area,241
+Area,325.6
+Area,554.25
+Area,387
+Area,379.8
+Area,522.5
+Area,196
+Area,197.5
+Area,363.2
+Area,903.6
+Area,348
+Area,166
+Area,359.2
+Area,200.6
+Area,590.5
+Area,70.18181818
+Area,299.6818182
+Area,242.7272727
+Area,216.3636364
+Area,178.6363636
+Area,79.52727273
+Area,78.84848485
+Area,89.27272727
+Area,75.18181818
+Area,41.04545455
+Area,75.42424242
+Area,156.9090909
+Area,73
+Area,35.54545455
+Area,52.36363636
+Area,114.6818182
+Area,100.1818182
+Area,76.45454545
+Area,70.75757576
+Area,60.90909091
+Area,57.34090909
+Area,90.13636364
+Area,50.90909091
+Area,143.8181818
+Area,90.53030303
+Area,46.06060606
+Area,37.31818182
+Area,159.4181818
+Area,224.1818182
+Area,37.5
+Area,45.87121212
+Area,63
+Area,91.36363636
+Area,57.91212121
+Area,36.68181818
+Area,106
+Area,71.27272727
+Area,117.7272727
+Area,212.2727273
+Area,88.56818182
+Area,80.96363636
+Area,150.0515152
+Area,184.5
+Area,45.63636364
+Area,54.60606061
+Area,90.18181818
+Area,99.38636364
+Area,74.55454545
+Area,37.45909091
+Area,37.67272727
+Area,204
+Area,76.46818182
+Area,94.68181818
+Area,164.8636364
+Area,36.81818182
+Area,45.37878788
+Area,65.45454545
+Area,166.1363636
+Area,60.42424242
+Area,68.61818182
+Area,167.2636364
+Area,66.60606061
+Area,133.5818182
+Area,53.4469697
+Area,137.6818182
+Area,130
+Area,130
+Area,178
+Area,199.8909091
+Area,168.4181818
+Area,271.5878788
+Area,186.6
+Area,197.64
+Area,227.04
+Area,170.28
+Area,139.44
+Area,84.66666667
+Area,191.9393939
+Area,124.98
+Area,179.43
+Area,238.64
+Area,148.2460606
+Area,229.5333333
+Area,160.8
+Area,119.62
+Area,298.3
+Area,115.32
+Area,115.32
+Area,200.9363636
+Area,119.32
+Area,329.1945455
+Area,168.9969697
+Area,111.5090909
+Area,148.6187879
+Area,111.62
+Area,191.43
+Area,143.38
+Area,266.52
+Area,254.2727273
+Area,126.6666667
+Area,131.2121212
+Area,132.9545455
+Area,165.5
+Area,170.5757576
+Area,121.969697
+Area,228.7272727
+Area,571.5151515
+Area,214.3181818
+Area,178.4848485
+Area,349.0909091
+Area,255.4545455
+Area,298.7272727
+Area,450.9090909
+Area,159.9393939
+Area,101.5151515
+Area,385
+Area,158.4090909
+Area,120
+Area,304.5454545
+Area,141.030303
+Area,224.1818182
+Area,687.8787879
+Area,118
+Area,110
+Area,219.5151515
+Area,56.18181818
+Area,196.8242424
+Area,242.4242424
+Area,245.3181818
+Area,48.68181818
+Area,98.90151515
+Area,197.4848485
+Area,183.3787879
+Area,168.7878788
+Area,166.6666667
+Area,409.0909091
+Area,265
+Area,70.53030303
+Area,147.2727273
+Area,133.0606061
+Area,89.09090909
+Area,96.81060606
+Area,64.62424242
+Area,303.3333333
+Area,127.9393939
+Area,97.85151515
+Area,116.3636364
+Area,110.7575758
+Area,127.030303
+Area,81.63636364
+Area,83.45454545
+Area,98.63636364
+Area,136
+Area,220.2272727
+Area,146.2909091
+Area,480
+Area,430
+Area,240
+Area,480
+Area,384
+Area,192
+Area,336
+Area,240
+Area,192
+Area,303.6363636
+Area,192
+Area,240
+Area,192
+Area,336
+Area,192
+Area,336
+Area,240
+Area,240
+Area,288
+Area,192
+Area,192
+Area,192
+Area,144
+Area,210
+Area,192
+Area,480
+Area,174
+Area,306
+Experience,25
+Experience,40
+Experience,35
+Experience,40
+Experience,45
+Experience,25
+Experience,35
+Experience,20
+Experience,40
+Experience,35
+Experience,22
+Experience,45
+Experience,45
+Experience,25
+Experience,45
+Experience,12
+Experience,25
+Experience,40
+Experience,40
+Experience,35
+Experience,33
+Experience,25
+Experience,25
+Experience,35
+Experience,15
+Experience,35
+Experience,25
+Experience,20
+Experience,45
+Experience,45
+Experience,45
+Experience,30
+Experience,30
+Experience,38
+Experience,45
+Experience,25
+Experience,25
+Experience,40
+Experience,35
+Experience,40
+Experience,40
+Experience,30
+Experience,15
+Experience,27
+Experience,35
+Experience,40
+Experience,15
+Experience,30
+Experience,28
+Experience,15
+Experience,35
+Experience,20
+Experience,20
+Experience,35
+Experience,35
+Experience,25
+Experience,30
+Experience,10
+Experience,40
+Experience,20
+Experience,25
+Experience,25
+Experience,30
+Experience,30
+Experience,30
+Experience,25
+Experience,20
+Experience,25
+Experience,15
+Experience,20
+Experience,30
+Experience,30
+Experience,14
+Experience,25
+Experience,30
+Experience,25
+Experience,12
+Experience,20
+Experience,45
+Experience,12
+Experience,30
+Experience,18
+Experience,15
+Experience,25
+Experience,15
+Experience,22
+Experience,14
+Experience,25
+Experience,30
+Experience,20
+Experience,20
+Experience,30
+Experience,20
+Experience,31
+Experience,30
+Experience,30
+Experience,20
+Experience,25
+Experience,15
+Experience,15
+Experience,26
+Experience,20
+Experience,12
+Experience,20
+Experience,15
+Experience,10
+Experience,25
+Experience,40
+Experience,14
+Experience,50
+Experience,20
+Experience,33
+Experience,15
+Experience,25
+Experience,37
+Experience,35
+Experience,30
+Experience,40
+Experience,40
+Experience,30
+Experience,50
+Experience,25
+Experience,45
+Experience,25
+Experience,20
+Experience,5
+Experience,20
+Experience,20
+Experience,15
+Experience,20
+Experience,10
+Experience,20
+Experience,10
+Experience,15
+Experience,15
+Experience,15
+Experience,20
+Experience,19
+Experience,9
+Experience,20
+Experience,25
+Experience,20
+Experience,20
+Experience,15
+Experience,5
+Experience,20
+Experience,40
+Experience,5
+Experience,10
+Experience,30
+Experience,30
+Experience,5
+Experience,10
+Experience,10
+Experience,30
+Experience,25
+Experience,40
+Experience,20
+Experience,20
+Experience,30
+Experience,20
+Experience,20
+Experience,30
+Experience,28
+Experience,27
+Experience,25
+Experience,40
+Experience,35
+Experience,30
+Experience,22
+Experience,25
+Experience,20
+Experience,25
+Experience,25
+Experience,25
+Experience,20
+Experience,20
+Experience,22
+Experience,40
+Experience,22
+Experience,29
+Experience,20
+Experience,30
+Experience,25
+Experience,24
+Experience,22
+Experience,40
+Experience,28
+Experience,40
+Experience,15
+Experience,35
+Experience,22
+Experience,24
+Experience,30
+Experience,22
+Experience,35
+Experience,35
+Experience,40
+Experience,40
+Experience,50
+Experience,30
+Experience,20
+Experience,20
+Experience,50
+Experience,20
+Experience,15
+Experience,17
+Experience,30
+Experience,40
+Experience,35
+Experience,23
+Experience,25
+Experience,45
+Experience,20
+Experience,45
+Experience,25
+Experience,36
+Experience,15
+Experience,40
+Experience,10
+Experience,5
+Experience,15
+Experience,20
+Experience,5
+Experience,15
+Experience,12
+Experience,15
+Experience,7
+Experience,25
+Experience,35
+Experience,5
+Experience,38
+Experience,39
+Experience,24
+Experience,37
+Experience,39
+Experience,20
+Experience,20
+Experience,35
+Experience,30
+Experience,35
+Experience,20
+Experience,2
+Experience,28
+Experience,24
+Experience,38
+Experience,32
+Experience,28
+Experience,32
+Experience,38
+Experience,35
+Experience,20
+Experience,28
+Experience,10
+Experience,10
+Experience,20
+Experience,4
+Experience,25
+Experience,30
+Experience,30
+Experience,30
+Experience,20
+Experience,26
+Experience,22
+Experience,20
+Experience,25
+Experience,30
+Experience,35
+Experience,30
+Experience,20
+Experience,25
+Experience,15
+Experience,30
+Experience,25
+Experience,30
+Experience,20
+Experience,8
+Experience,30
+Experience,50
+Experience,30
+Experience,15
+Experience,25
+Experience,20
+Experience,16
+Experience,25
+Experience,30
+Experience,20
+Experience,18
+Experience,35
+Experience,12
+Experience,20
+Experience,40
+Experience,20
+Experience,35
+Experience,25
+Experience,20
+Experience,15
+Experience,15
+Experience,40
+Experience,10
+Experience,30
+Experience,20
+Experience,25
+Experience,15
+Experience,15
+Experience,30
+Experience,20
+Experience,20
+Experience,25
+Experience,50
+Experience,20
+Experience,20
+Experience,20
+Experience,25
+Experience,25
+Experience,18
+Experience,30
+Experience,30
+Experience,32
+Experience,15
+Experience,30
+Experience,20
+Experience,35
+Experience,46
+Experience,50
+Experience,20
+Experience,42
+Experience,30
+Experience,20
+Experience,12
+Experience,20
+Experience,20
+Experience,55
+Experience,40
+Experience,25
+Experience,45
+Experience,199
+Experience,15
+Experience,35
+Experience,25
+Experience,45
+Experience,30
+Experience,12
+Experience,10
+Experience,10
+Experience,20
+Experience,20
+Experience,15
+Experience,25
+Experience,20
+Experience,30
+Experience,30
+Experience,40
+Experience,50
+Experience,30
+Experience,40
+Experience,20
+Experience,20
+Experience,20
+Experience,20
+Experience,50
+Experience,50
+Experience,50
+Experience,22
+Experience,20
+Experience,40
+Experience,15
+Experience,20
+Experience,25
+Experience,30
+Experience,15
+Innovativeness,2.7
+Innovativeness,0.2
+Innovativeness,0.3
+Innovativeness,0.3
+Innovativeness,0.2
+Innovativeness,0.4
+Innovativeness,0.3
+Innovativeness,0.6
+Innovativeness,1.2
+Innovativeness,0.7
+Innovativeness,0.6
+Innovativeness,0.1
+Innovativeness,0.2
+Innovativeness,1.3
+Innovativeness,0.2
+Innovativeness,1.7
+Innovativeness,0.5
+Innovativeness,0.2
+Innovativeness,0.5
+Innovativeness,0.6
+Innovativeness,0.3
+Innovativeness,0.3
+Innovativeness,0.4
+Innovativeness,0.4
+Innovativeness,1.1
+Innovativeness,0.2
+Innovativeness,0.2
+Innovativeness,0.3
+Innovativeness,0.2
+Innovativeness,0.2
+Innovativeness,0.1
+Innovativeness,0.4
+Innovativeness,0.2
+Innovativeness,0.4
+Innovativeness,0.3
+Innovativeness,0.1
+Innovativeness,0.2
+Innovativeness,0.3
+Innovativeness,0.3
+Innovativeness,0.3
+Innovativeness,0.2
+Innovativeness,0.5
+Innovativeness,0.1
+Innovativeness,0.2
+Innovativeness,0.4
+Innovativeness,0.3
+Innovativeness,3.3
+Innovativeness,1
+Innovativeness,0.2
+Innovativeness,0.3
+Innovativeness,0.2
+Innovativeness,0.3
+Innovativeness,0.3
+Innovativeness,0.2
+Innovativeness,0.1
+Innovativeness,0.3
+Innovativeness,0.2
+Innovativeness,0.2
+Innovativeness,0.3
+Innovativeness,0.2
+Innovativeness,0.3
+Innovativeness,0.3
+Innovativeness,0.5
+Innovativeness,0.1
+Innovativeness,0.6
+Innovativeness,0.7
+Innovativeness,3.2
+Innovativeness,2.3
+Innovativeness,1.6
+Innovativeness,2.4
+Innovativeness,0.7
+Innovativeness,1.2
+Innovativeness,1.4
+Innovativeness,0.3
+Innovativeness,0.8
+Innovativeness,0.6
+Innovativeness,1.5
+Innovativeness,0.7
+Innovativeness,1.1
+Innovativeness,2.1
+Innovativeness,1.1
+Innovativeness,2
+Innovativeness,1.2
+Innovativeness,0.7
+Innovativeness,2.6
+Innovativeness,1.6
+Innovativeness,2.3
+Innovativeness,1.5
+Innovativeness,1.2
+Innovativeness,4.4
+Innovativeness,0.6
+Innovativeness,0.7
+Innovativeness,0.5
+Innovativeness,0.2
+Innovativeness,0.5
+Innovativeness,3.5
+Innovativeness,2.4
+Innovativeness,2.1
+Innovativeness,3.2
+Innovativeness,2.4
+Innovativeness,3.9
+Innovativeness,2.9
+Innovativeness,2
+Innovativeness,4.2
+Innovativeness,6.6
+Innovativeness,4.4
+Innovativeness,1.5
+Innovativeness,1.9
+Innovativeness,3.3
+Innovativeness,2.7
+Innovativeness,2.4
+Innovativeness,1.3
+Innovativeness,1.2
+Innovativeness,2.3
+Innovativeness,1
+Innovativeness,2.2
+Innovativeness,2.8
+Innovativeness,3.7
+Innovativeness,1.3
+Innovativeness,4.3
+Innovativeness,3.1
+Innovativeness,3.5
+Innovativeness,1
+Innovativeness,2.2
+Innovativeness,1.9
+Innovativeness,4.6
+Innovativeness,1.6
+Innovativeness,2
+Innovativeness,2.5
+Innovativeness,2.4
+Innovativeness,3.7
+Innovativeness,1.9
+Innovativeness,3.9
+Innovativeness,0.9
+Innovativeness,1.5
+Innovativeness,2.9
+Innovativeness,1.2
+Innovativeness,3
+Innovativeness,3.5
+Innovativeness,2
+Innovativeness,1.3
+Innovativeness,2.1
+Innovativeness,1.5
+Innovativeness,2.9
+Innovativeness,4.6
+Innovativeness,1.6
+Innovativeness,0.2
+Innovativeness,4.6
+Innovativeness,3.6
+Innovativeness,0.2
+Innovativeness,0.2
+Innovativeness,2.3
+Innovativeness,3.6
+Innovativeness,3.6
+Innovativeness,0.4
+Innovativeness,2
+Innovativeness,2.4
+Innovativeness,2.4
+Innovativeness,3.1
+Innovativeness,1.4
+Innovativeness,2.5
+Innovativeness,2.3
+Innovativeness,2.5
+Innovativeness,2.2
+Innovativeness,1.4
+Innovativeness,1.4
+Innovativeness,1.4
+Innovativeness,1.6
+Innovativeness,5.4
+Innovativeness,1.8
+Innovativeness,1.4
+Innovativeness,2.1
+Innovativeness,1.8
+Innovativeness,2
+Innovativeness,2
+Innovativeness,5.4
+Innovativeness,1.4
+Innovativeness,1.6
+Innovativeness,1.5
+Innovativeness,1.4
+Innovativeness,1.4
+Innovativeness,1.4
+Innovativeness,2.9
+Innovativeness,2
+Innovativeness,2
+Innovativeness,2
+Innovativeness,1.4
+Innovativeness,2.2
+Innovativeness,1.8
+Innovativeness,4.7
+Innovativeness,2.8
+Innovativeness,3.2
+Innovativeness,1.6
+Innovativeness,2.9
+Innovativeness,1.4
+Innovativeness,2.1
+Innovativeness,1.7
+Innovativeness,2.3
+Innovativeness,1.7
+Innovativeness,2.4
+Innovativeness,1.3
+Innovativeness,1.7
+Innovativeness,1.3
+Innovativeness,1
+Innovativeness,2
+Innovativeness,2.1
+Innovativeness,1.7
+Innovativeness,2
+Innovativeness,1.8
+Innovativeness,4.3
+Innovativeness,1.3
+Innovativeness,1.5
+Innovativeness,3.3
+Innovativeness,3.9
+Innovativeness,1.8
+Innovativeness,4
+Innovativeness,2
+Innovativeness,2.7
+Innovativeness,1.2
+Innovativeness,1.6
+Innovativeness,5.4
+Innovativeness,2.3
+Innovativeness,0.7
+Innovativeness,2.6
+Innovativeness,1.8
+Innovativeness,1.3
+Innovativeness,3.5
+Innovativeness,4.6
+Innovativeness,1
+Innovativeness,1.1
+Innovativeness,1
+Innovativeness,0.8
+Innovativeness,0.9
+Innovativeness,0.8
+Innovativeness,1.1
+Innovativeness,0.7
+Innovativeness,2.5
+Innovativeness,1.1
+Innovativeness,2.4
+Innovativeness,1.8
+Innovativeness,2
+Innovativeness,1.5
+Innovativeness,2.8
+Innovativeness,0.7
+Innovativeness,1.3
+Innovativeness,2.2
+Innovativeness,1.1
+Innovativeness,0.7
+Innovativeness,0.8
+Innovativeness,0.6
+Innovativeness,1.9
+Innovativeness,1.2
+Innovativeness,0.8
+Innovativeness,4.3
+Innovativeness,4.2
+Innovativeness,4.1
+Innovativeness,5.8
+Innovativeness,2
+Innovativeness,2.8
+Innovativeness,2.8
+Innovativeness,3.3
+Innovativeness,2.5
+Innovativeness,2.2
+Innovativeness,1.9
+Innovativeness,2.1
+Innovativeness,2.7
+Innovativeness,4
+Innovativeness,1.8
+Innovativeness,3.3
+Innovativeness,4
+Innovativeness,2.1
+Innovativeness,2.9
+Innovativeness,3.1
+Innovativeness,2.2
+Innovativeness,3
+Innovativeness,2
+Innovativeness,3.6
+Innovativeness,1.8
+Innovativeness,3.7
+Innovativeness,2
+Innovativeness,5
+Innovativeness,3.7
+Innovativeness,1.8
+Innovativeness,4
+Innovativeness,2
+Innovativeness,2.4
+Innovativeness,1.8
+Innovativeness,2.4
+Innovativeness,3.8
+Innovativeness,3.4
+Innovativeness,2.9
+Innovativeness,2.4
+Innovativeness,3
+Innovativeness,1.5
+Innovativeness,4.1
+Innovativeness,2.4
+Innovativeness,2.4
+Innovativeness,2
+Innovativeness,2.2
+Innovativeness,3.9
+Innovativeness,2.1
+Innovativeness,0.7
+Innovativeness,3.8
+Innovativeness,4
+Innovativeness,4.2
+Innovativeness,3.4
+Innovativeness,4.2
+Innovativeness,3.4
+Innovativeness,3.8
+Innovativeness,1.5
+Innovativeness,1.3
+Innovativeness,3.1
+Innovativeness,4
+Innovativeness,4.6
+Innovativeness,4.2
+Innovativeness,4.4
+Innovativeness,5.4
+Innovativeness,5.3
+Innovativeness,3.7
+Innovativeness,1.4
+Innovativeness,1.1
+Innovativeness,4.6
+Innovativeness,4.3
+Innovativeness,0.7
+Innovativeness,4.1
+Innovativeness,2.6
+Innovativeness,3.4
+Innovativeness,1.4
+Innovativeness,2.2
+Innovativeness,4.8
+Innovativeness,1.2
+Innovativeness,1.4
+Innovativeness,3.9
+Innovativeness,2.9
+Innovativeness,3.6
+Innovativeness,2.5
+Innovativeness,4
+Innovativeness,3.7
+Innovativeness,2.4
+Innovativeness,3.2
+Innovativeness,3.2
+Innovativeness,3
+Innovativeness,3.7
+Innovativeness,3.7
+Innovativeness,4.3
+Innovativeness,3.7
+Innovativeness,3.7
+Innovativeness,3.7
+Innovativeness,3.7
+Innovativeness,4.3
+Innovativeness,4.3
+Innovativeness,4.3
+Innovativeness,4.3
+Innovativeness,3.7
+Innovativeness,4.3
+Innovativeness,4.5
+Innovativeness,4.5
+Innovativeness,3.7
+Innovativeness,3.7
+Innovativeness,3.7
+Innovativeness,3.7
+Innovativeness,3.7
+Innovativeness,2.9
+Innovativeness,3.8
+Innovativeness,4.4
+Innovativeness,3.7
+Innovativeness,3.7
+Innovativeness,3.7
+Innovativeness,3.9
+Innovativeness,3.1
+Innovativeness,3.9
+Profitability,1.972677596
+Profitability,1.9375
+Profitability,1.932515337
+Profitability,1.96125
+Profitability,1.860606061
+Profitability,1.741176471
+Profitability,1.91875
+Profitability,1.8875
+Profitability,1.828220859
+Profitability,1.872941176
+Profitability,1.974117647
+Profitability,1.91875
+Profitability,1.890588235
+Profitability,1.890625
+Profitability,1.893125
+Profitability,1.909195402
+Profitability,1.9375
+Profitability,1.971779141
+Profitability,1.803783784
+Profitability,1.9
+Profitability,1.855757576
+Profitability,1.89375
+Profitability,1.996666667
+Profitability,1.919354839
+Profitability,1.840490798
+Profitability,1.898125
+Profitability,1.786470588
+Profitability,1.930625
+Profitability,1.700564972
+Profitability,1.714285714
+Profitability,1.82
+Profitability,1.8
+Profitability,1.82208589
+Profitability,1.958490566
+Profitability,1.941818182
+Profitability,1.892307692
+Profitability,1.979865772
+Profitability,1.963190184
+Profitability,1.829113924
+Profitability,1.895424837
+Profitability,1.858024691
+Profitability,1.913846154
+Profitability,1.81595092
+Profitability,1.815028902
+Profitability,1.928104575
+Profitability,1.988269795
+Profitability,1.773219373
+Profitability,1.881388013
+Profitability,1.829652997
+Profitability,1.833810888
+Profitability,1.90881459
+Profitability,1.967320261
+Profitability,1.895424837
+Profitability,1.950769231
+Profitability,1.791044776
+Profitability,1.954761905
+Profitability,1.898734177
+Profitability,1.960784314
+Profitability,1.941520468
+Profitability,1.851265823
+Profitability,1.89017341
+Profitability,1.950920245
+Profitability,1.917177914
+Profitability,1.924027177
+Profitability,1.995031056
+Profitability,1.803797468
+Profitability,1.79245283
+Profitability,1.906666667
+Profitability,1.906666667
+Profitability,1.782857143
+Profitability,1.702380952
+Profitability,1.79245283
+Profitability,1.583333333
+Profitability,1.628571429
+Profitability,1.676470588
+Profitability,1.588888889
+Profitability,1.584487535
+Profitability,1.810126582
+Profitability,1.985
+Profitability,1.751592357
+Profitability,1.833333333
+Profitability,1.66
+Profitability,1.724683544
+Profitability,1.703125
+Profitability,1.965517241
+Profitability,1.965517241
+Profitability,1.721212121
+Profitability,1.82
+Profitability,1.798780488
+Profitability,1.731117825
+Profitability,1.577142857
+Profitability,1.527777778
+Profitability,1.508859358
+Profitability,1.71875
+Profitability,1.850649351
+Profitability,1.48057971
+Profitability,1.545454545
+Profitability,1.538235294
+Profitability,1.795294118
+Profitability,1.666666667
+Profitability,1.333333333
+Profitability,1.619354839
+Profitability,1.981981982
+Profitability,1.733333333
+Profitability,1.37218543
+Profitability,1.724137931
+Profitability,1.868421053
+Profitability,2.165333333
+Profitability,1.666666667
+Profitability,1.681547619
+Profitability,1.636363636
+Profitability,1.428571429
+Profitability,1.518987342
+Profitability,1.741935484
+Profitability,1.812883436
+Profitability,1.898734177
+Profitability,1.676282051
+Profitability,1.607142857
+Profitability,1.455696203
+Profitability,1.456081081
+Profitability,1.885093168
+Profitability,1.568627451
+Profitability,1.455696203
+Profitability,1.392405063
+Profitability,1.428571429
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.5375
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.5
+Profitability,1.5
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.60130719
+Profitability,1.53125
+Profitability,1.53125
+Profitability,1.835443038
+Profitability,1.75
+Profitability,1.867069486
+Profitability,1.831288344
+Profitability,1.85
+Profitability,1.7
+Profitability,1.705882353
+Profitability,1.84375
+Profitability,1.739285714
+Profitability,1.906451613
+Profitability,1.818181818
+Profitability,1.80625
+Profitability,1.524539877
+Profitability,1.567567568
+Profitability,1.422222222
+Profitability,1.546666667
+Profitability,1.63030303
+Profitability,1.622641509
+Profitability,1.697530864
+Profitability,1.774193548
+Profitability,1.902140673
+Profitability,1.571865443
+Profitability,1.992857143
+Profitability,1.894814815
+Profitability,1.889285714
+Profitability,1.765517241
+Profitability,1.858823529
+Profitability,1.39375
+Profitability,1.790625
+Profitability,1.678787879
+Profitability,1.617647059
+Profitability,1.797385621
+Profitability,1.839285714
+Profitability,1.883289125
+Profitability,1.774193548
+Profitability,2.186544343
+Profitability,1.621212121
+Profitability,1.532121212
+Profitability,1.486381323
+Profitability,1.405405405
+Profitability,1.57195572
+Profitability,1.42745098
+Profitability,1.513207547
+Profitability,1.474903475
+Profitability,1.57254902
+Profitability,1.369811321
+Profitability,1.463601533
+Profitability,1.315589354
+Profitability,1.479704797
+Profitability,1.521912351
+Profitability,1.450199203
+Profitability,1.378486056
+Profitability,1.276752768
+Profitability,1.557768924
+Profitability,1.521912351
+Profitability,1.53256705
+Profitability,1.596958175
+Profitability,1.22829582
+Profitability,1.306273063
+Profitability,1.401544402
+Profitability,1.452471483
+Profitability,1.409594096
+Profitability,1.463709677
+Profitability,1.400793651
+Profitability,1.480620155
+Profitability,1.389312977
+Profitability,1.555555556
+Profitability,1.401515152
+Profitability,1.127272727
+Profitability,1.208860759
+Profitability,1.073033708
+Profitability,1.345454545
+Profitability,1.297546012
+Profitability,1.5425
+Profitability,1.494857143
+Profitability,1.941176471
+Profitability,1.235294118
+Profitability,1.181547619
+Profitability,1.406936416
+Profitability,1.283333333
+Profitability,1.136904762
+Profitability,1.471518987
+Profitability,1.8
+Profitability,1.9264
+Profitability,1.7875
+Profitability,1.8
+Profitability,2.375
+Profitability,2.292307692
+Profitability,1.65
+Profitability,1.846153846
+Profitability,2.153846154
+Profitability,1.55
+Profitability,1.905185185
+Profitability,2.0336
+Profitability,1.755555556
+Profitability,2.1168
+Profitability,1.796153846
+Profitability,1.659259259
+Profitability,1.778571429
+Profitability,2.052173913
+Profitability,1.888
+Profitability,1.566666667
+Profitability,1.546666667
+Profitability,1.566666667
+Profitability,1.846153846
+Profitability,1.943076923
+Profitability,1.650666667
+Profitability,1.84
+Profitability,1.57875
+Profitability,1.546666667
+Profitability,1.533333333
+Profitability,1.717333333
+Profitability,1.904615385
+Profitability,1.981538462
+Profitability,2.0208
+Profitability,1.784615385
+Profitability,1.533333333
+Profitability,1.9808
+Profitability,1.684
+Profitability,1.904615385
+Profitability,1.650666667
+Profitability,1.904615385
+Profitability,1.9808
+Profitability,1.56
+Profitability,1.650666667
+Profitability,1.769230769
+Profitability,1.9808
+Profitability,1.904615385
+Profitability,2.063333333
+Profitability,1.981538462
+Profitability,1.943076923
+Profitability,1.7125
+Profitability,1.793548387
+Profitability,1.696774194
+Profitability,1.487654321
+Profitability,1.357142857
+Profitability,1.858024691
+Profitability,1.726708075
+Profitability,2.067484663
+Profitability,1.969135802
+Profitability,1.938271605
+Profitability,1.71875
+Profitability,1.509090909
+Profitability,1.509090909
+Profitability,1.668789809
+Profitability,1.890909091
+Profitability,1.50617284
+Profitability,1.733333333
+Profitability,1.931677019
+Profitability,1.47826087
+Profitability,1.602484472
+Profitability,1.664705882
+Profitability,1.393939394
+Profitability,1.919753086
+Profitability,3.171779141
+Profitability,1.511764706
+Profitability,1.8
+Profitability,1.825806452
+Profitability,1.946153846
+Profitability,1.925882353
+Profitability,1.696
+Profitability,1.915384615
+Profitability,1.8
+Profitability,1.770186335
+Profitability,1.98757764
+Profitability,2.00310559
+Profitability,1.860759494
+Profitability,1.766467066
+Profitability,1.98089172
+Profitability,1.894273128
+Profitability,1.942424242
+Profitability,2.127272727
+Profitability,1.745762712
+Profitability,1.508474576
+Profitability,2.097160883
+Profitability,2.014414414
+Profitability,2.099378882
+Profitability,1.861445783
+Profitability,2.038905775
+Profitability,1.87460815
+Profitability,1.8475
+Profitability,1.884146341
+Profitability,2.002923977
+Profitability,1.976470588
+Profitability,2.061728395
+Profitability,1.813186813
+Profitability,1.775
+Profitability,1.574545455
+Profitability,1.740740741
+Profitability,1.65625
+Profitability,1.842105263
+Profitability,1.842105263
+Profitability,1.842105263
+Profitability,1.932515337
+Profitability,1.842105263
+Profitability,1.842105263
+Profitability,1.920731707
+Profitability,1.982758621
+Profitability,1.932515337
+Profitability,1.956521739
+Profitability,1.842105263
+Profitability,1.96875
+Profitability,1.702702703
+Profitability,1.75
+Profitability,1.820809249
+Profitability,1.852941176
+Profitability,1.8
+Profitability,1.721311475
+Profitability,1.702702703
+Profitability,2.045454545
+Profitability,1.96875
+Profitability,1.852941176
+Profitability,1.75
+Profitability,1.702702703
+Profitability,1.8
+Profitability,1.75
+Extension contacts,34
+Extension contacts,24
+Extension contacts,26
+Extension contacts,27
+Extension contacts,31
+Extension contacts,31
+Extension contacts,27
+Extension contacts,27
+Extension contacts,30
+Extension contacts,33
+Extension contacts,33
+Extension contacts,27
+Extension contacts,27
+Extension contacts,31
+Extension contacts,24
+Extension contacts,36
+Extension contacts,33
+Extension contacts,36
+Extension contacts,35
+Extension contacts,37
+Extension contacts,33
+Extension contacts,33
+Extension contacts,28
+Extension contacts,27
+Extension contacts,27
+Extension contacts,27
+Extension contacts,27
+Extension contacts,37
+Extension contacts,30
+Extension contacts,26
+Extension contacts,27
+Extension contacts,33
+Extension contacts,27
+Extension contacts,33
+Extension contacts,30
+Extension contacts,16
+Extension contacts,16
+Extension contacts,16
+Extension contacts,15
+Extension contacts,14
+Extension contacts,15
+Extension contacts,21
+Extension contacts,17
+Extension contacts,17
+Extension contacts,15
+Extension contacts,15
+Extension contacts,14
+Extension contacts,34
+Extension contacts,14
+Extension contacts,16
+Extension contacts,16
+Extension contacts,15
+Extension contacts,13
+Extension contacts,17
+Extension contacts,14
+Extension contacts,15
+Extension contacts,13
+Extension contacts,15
+Extension contacts,14
+Extension contacts,19
+Extension contacts,13
+Extension contacts,15
+Extension contacts,32
+Extension contacts,20
+Extension contacts,23
+Extension contacts,19
+Extension contacts,23
+Extension contacts,30
+Extension contacts,25
+Extension contacts,27
+Extension contacts,19
+Extension contacts,20
+Extension contacts,20
+Extension contacts,17
+Extension contacts,21
+Extension contacts,20
+Extension contacts,25
+Extension contacts,14
+Extension contacts,40
+Extension contacts,26
+Extension contacts,25
+Extension contacts,14
+Extension contacts,28
+Extension contacts,23
+Extension contacts,25
+Extension contacts,20
+Extension contacts,20
+Extension contacts,23
+Extension contacts,18
+Extension contacts,23
+Extension contacts,20
+Extension contacts,21
+Extension contacts,14
+Extension contacts,18
+Extension contacts,20
+Extension contacts,17
+Extension contacts,10
+Extension contacts,11
+Extension contacts,12
+Extension contacts,16
+Extension contacts,16
+Extension contacts,12
+Extension contacts,13
+Extension contacts,16
+Extension contacts,11
+Extension contacts,29
+Extension contacts,27
+Extension contacts,28
+Extension contacts,18
+Extension contacts,17
+Extension contacts,18
+Extension contacts,15
+Extension contacts,25
+Extension contacts,18
+Extension contacts,12
+Extension contacts,19
+Extension contacts,26
+Extension contacts,23
+Extension contacts,11
+Extension contacts,27
+Extension contacts,28
+Extension contacts,25
+Extension contacts,19
+Extension contacts,26
+Extension contacts,20
+Extension contacts,20
+Extension contacts,15
+Extension contacts,29
+Extension contacts,28
+Extension contacts,29
+Extension contacts,19
+Extension contacts,10
+Extension contacts,10
+Extension contacts,18
+Extension contacts,19
+Extension contacts,18
+Extension contacts,15
+Extension contacts,16
+Extension contacts,20
+Extension contacts,30
+Extension contacts,21
+Extension contacts,25
+Extension contacts,21
+Extension contacts,20
+Extension contacts,21
+Extension contacts,22
+Extension contacts,23
+Extension contacts,15
+Extension contacts,20
+Extension contacts,11
+Extension contacts,25
+Extension contacts,29
+Extension contacts,29
+Extension contacts,11
+Extension contacts,15
+Extension contacts,11
+Extension contacts,18
+Extension contacts,12
+Extension contacts,14
+Extension contacts,10
+Extension contacts,15
+Extension contacts,11
+Extension contacts,12
+Extension contacts,12
+Extension contacts,12
+Extension contacts,18
+Extension contacts,20
+Extension contacts,16
+Extension contacts,15
+Extension contacts,12
+Extension contacts,13
+Extension contacts,18
+Extension contacts,17
+Extension contacts,16
+Extension contacts,13
+Extension contacts,28
+Extension contacts,15
+Extension contacts,13
+Extension contacts,16
+Extension contacts,11
+Extension contacts,16
+Extension contacts,12
+Extension contacts,10
+Extension contacts,17
+Extension contacts,17
+Extension contacts,19
+Extension contacts,28
+Extension contacts,14
+Extension contacts,12
+Extension contacts,17
+Extension contacts,27
+Extension contacts,16
+Extension contacts,21
+Extension contacts,17
+Extension contacts,28
+Extension contacts,21
+Extension contacts,19
+Extension contacts,22
+Extension contacts,13
+Extension contacts,19
+Extension contacts,21
+Extension contacts,25
+Extension contacts,22
+Extension contacts,22
+Extension contacts,15
+Extension contacts,15
+Extension contacts,15
+Extension contacts,19
+Extension contacts,23
+Extension contacts,23
+Extension contacts,15
+Extension contacts,17
+Extension contacts,17
+Extension contacts,20
+Extension contacts,21
+Extension contacts,19
+Extension contacts,27
+Extension contacts,12
+Extension contacts,18
+Extension contacts,24
+Extension contacts,22
+Extension contacts,16
+Extension contacts,24
+Extension contacts,25
+Extension contacts,20
+Extension contacts,13
+Extension contacts,13
+Extension contacts,29
+Extension contacts,22
+Extension contacts,15
+Extension contacts,17
+Extension contacts,21
+Extension contacts,26
+Extension contacts,22
+Extension contacts,25
+Extension contacts,25
+Extension contacts,24
+Extension contacts,10
+Extension contacts,23
+Extension contacts,26
+Extension contacts,29
+Extension contacts,20
+Extension contacts,16
+Extension contacts,14
+Extension contacts,17
+Extension contacts,26
+Extension contacts,12
+Extension contacts,20
+Extension contacts,15
+Extension contacts,14
+Extension contacts,14
+Extension contacts,13
+Extension contacts,19
+Extension contacts,17
+Extension contacts,27
+Extension contacts,27
+Extension contacts,25
+Extension contacts,22
+Extension contacts,19
+Extension contacts,22
+Extension contacts,18
+Extension contacts,20
+Extension contacts,19
+Extension contacts,17
+Extension contacts,19
+Extension contacts,15
+Extension contacts,13
+Extension contacts,23
+Extension contacts,19
+Extension contacts,21
+Extension contacts,27
+Extension contacts,17
+Extension contacts,18
+Extension contacts,19
+Extension contacts,0
+Extension contacts,28
+Extension contacts,15
+Extension contacts,22
+Extension contacts,25
+Extension contacts,19
+Extension contacts,18
+Extension contacts,27
+Extension contacts,18
+Extension contacts,18
+Extension contacts,17
+Extension contacts,28
+Extension contacts,12
+Extension contacts,14
+Extension contacts,11
+Extension contacts,24
+Extension contacts,25
+Extension contacts,13
+Extension contacts,16
+Extension contacts,15
+Extension contacts,15
+Extension contacts,27
+Extension contacts,15
+Extension contacts,27
+Extension contacts,29
+Extension contacts,21
+Extension contacts,13
+Extension contacts,13
+Extension contacts,10
+Extension contacts,14
+Extension contacts,11
+Extension contacts,19
+Extension contacts,18
+Extension contacts,11
+Extension contacts,19
+Extension contacts,10
+Extension contacts,26
+Extension contacts,19
+Extension contacts,17
+Extension contacts,19
+Extension contacts,16
+Extension contacts,18
+Extension contacts,16
+Extension contacts,25
+Extension contacts,11
+Extension contacts,24
+Extension contacts,11
+Extension contacts,10
+Extension contacts,28
+Extension contacts,29
+Extension contacts,12
+Extension contacts,19
+Extension contacts,26
+Extension contacts,11
+Extension contacts,14
+Extension contacts,29
+Extension contacts,10
+Extension contacts,15
+Extension contacts,10
+Extension contacts,18
+Extension contacts,10
+Extension contacts,18
+Extension contacts,11
+Extension contacts,13
+Extension contacts,19
+Extension contacts,18
+Extension contacts,10
+Extension contacts,10
+Extension contacts,17
+Extension contacts,15
+Extension contacts,23
+Extension contacts,33
+Extension contacts,33
+Extension contacts,26
+Extension contacts,24
+Extension contacts,24
+Extension contacts,24
+Extension contacts,35
+Extension contacts,28
+Extension contacts,24
+Extension contacts,23
+Extension contacts,25
+Extension contacts,26
+Extension contacts,23
+Extension contacts,26
+Extension contacts,24
+Extension contacts,34
+Extension contacts,26
+Extension contacts,25
+Extension contacts,27
+Extension contacts,27
+Extension contacts,13
+Extension contacts,11
+Extension contacts,16
+Extension contacts,12
+Extension contacts,13
+Extension contacts,24
+Value chain contacts,15
+Value chain contacts,23
+Value chain contacts,23
+Value chain contacts,23
+Value chain contacts,23
+Value chain contacts,23
+Value chain contacts,23
+Value chain contacts,23
+Value chain contacts,24
+Value chain contacts,23
+Value chain contacts,18
+Value chain contacts,23
+Value chain contacts,18
+Value chain contacts,22
+Value chain contacts,23
+Value chain contacts,14
+Value chain contacts,22
+Value chain contacts,23
+Value chain contacts,17
+Value chain contacts,20
+Value chain contacts,21
+Value chain contacts,21
+Value chain contacts,26
+Value chain contacts,19
+Value chain contacts,21
+Value chain contacts,22
+Value chain contacts,19
+Value chain contacts,27
+Value chain contacts,21
+Value chain contacts,23
+Value chain contacts,23
+Value chain contacts,22
+Value chain contacts,23
+Value chain contacts,25
+Value chain contacts,23
+Value chain contacts,11
+Value chain contacts,22
+Value chain contacts,23
+Value chain contacts,25
+Value chain contacts,22
+Value chain contacts,12
+Value chain contacts,12
+Value chain contacts,13
+Value chain contacts,15
+Value chain contacts,19
+Value chain contacts,12
+Value chain contacts,28
+Value chain contacts,11
+Value chain contacts,18
+Value chain contacts,17
+Value chain contacts,10
+Value chain contacts,27
+Value chain contacts,14
+Value chain contacts,12
+Value chain contacts,11
+Value chain contacts,29
+Value chain contacts,22
+Value chain contacts,16
+Value chain contacts,10
+Value chain contacts,18
+Value chain contacts,14
+Value chain contacts,11
+Value chain contacts,11
+Value chain contacts,28
+Value chain contacts,23
+Value chain contacts,18
+Value chain contacts,17
+Value chain contacts,22
+Value chain contacts,20
+Value chain contacts,20
+Value chain contacts,22
+Value chain contacts,21
+Value chain contacts,22
+Value chain contacts,24
+Value chain contacts,23
+Value chain contacts,24
+Value chain contacts,25
+Value chain contacts,20
+Value chain contacts,35
+Value chain contacts,19
+Value chain contacts,22
+Value chain contacts,20
+Value chain contacts,20
+Value chain contacts,15
+Value chain contacts,23
+Value chain contacts,30
+Value chain contacts,11
+Value chain contacts,16
+Value chain contacts,20
+Value chain contacts,18
+Value chain contacts,17
+Value chain contacts,20
+Value chain contacts,16
+Value chain contacts,21
+Value chain contacts,23
+Value chain contacts,24
+Value chain contacts,13
+Value chain contacts,19
+Value chain contacts,13
+Value chain contacts,11
+Value chain contacts,19
+Value chain contacts,8
+Value chain contacts,30
+Value chain contacts,23
+Value chain contacts,15
+Value chain contacts,16
+Value chain contacts,15
+Value chain contacts,12
+Value chain contacts,17
+Value chain contacts,19
+Value chain contacts,13
+Value chain contacts,21
+Value chain contacts,15
+Value chain contacts,30
+Value chain contacts,33
+Value chain contacts,18
+Value chain contacts,15
+Value chain contacts,27
+Value chain contacts,10
+Value chain contacts,14
+Value chain contacts,27
+Value chain contacts,13
+Value chain contacts,22
+Value chain contacts,24
+Value chain contacts,22
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,25
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,25
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,30
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,11
+Value chain contacts,10
+Value chain contacts,15
+Value chain contacts,19
+Value chain contacts,18
+Value chain contacts,17
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,14
+Value chain contacts,14
+Value chain contacts,19
+Value chain contacts,19
+Value chain contacts,19
+Value chain contacts,17
+Value chain contacts,14
+Value chain contacts,14
+Value chain contacts,17
+Value chain contacts,18
+Value chain contacts,19
+Value chain contacts,14
+Value chain contacts,16
+Value chain contacts,18
+Value chain contacts,19
+Value chain contacts,18
+Value chain contacts,15
+Value chain contacts,17
+Value chain contacts,18
+Value chain contacts,12
+Value chain contacts,17
+Value chain contacts,13
+Value chain contacts,15
+Value chain contacts,18
+Value chain contacts,18
+Value chain contacts,14
+Value chain contacts,29
+Value chain contacts,21
+Value chain contacts,14
+Value chain contacts,19
+Value chain contacts,11
+Value chain contacts,16
+Value chain contacts,14
+Value chain contacts,10
+Value chain contacts,15
+Value chain contacts,10
+Value chain contacts,16
+Value chain contacts,13
+Value chain contacts,12
+Value chain contacts,12
+Value chain contacts,14
+Value chain contacts,12
+Value chain contacts,13
+Value chain contacts,11
+Value chain contacts,16
+Value chain contacts,14
+Value chain contacts,15
+Value chain contacts,13
+Value chain contacts,16
+Value chain contacts,17
+Value chain contacts,14
+Value chain contacts,16
+Value chain contacts,21
+Value chain contacts,12
+Value chain contacts,11
+Value chain contacts,12
+Value chain contacts,10
+Value chain contacts,14
+Value chain contacts,12
+Value chain contacts,13
+Value chain contacts,28
+Value chain contacts,23
+Value chain contacts,37
+Value chain contacts,25
+Value chain contacts,24
+Value chain contacts,13
+Value chain contacts,18
+Value chain contacts,21
+Value chain contacts,33
+Value chain contacts,35
+Value chain contacts,29
+Value chain contacts,26
+Value chain contacts,29
+Value chain contacts,20
+Value chain contacts,30
+Value chain contacts,36
+Value chain contacts,14
+Value chain contacts,29
+Value chain contacts,19
+Value chain contacts,20
+Value chain contacts,10
+Value chain contacts,16
+Value chain contacts,10
+Value chain contacts,16
+Value chain contacts,30
+Value chain contacts,28
+Value chain contacts,10
+Value chain contacts,29
+Value chain contacts,12
+Value chain contacts,10
+Value chain contacts,12
+Value chain contacts,15
+Value chain contacts,16
+Value chain contacts,19
+Value chain contacts,18
+Value chain contacts,22
+Value chain contacts,15
+Value chain contacts,14
+Value chain contacts,24
+Value chain contacts,15
+Value chain contacts,13
+Value chain contacts,15
+Value chain contacts,18
+Value chain contacts,19
+Value chain contacts,22
+Value chain contacts,17
+Value chain contacts,21
+Value chain contacts,19
+Value chain contacts,22
+Value chain contacts,21
+Value chain contacts,22
+Value chain contacts,22
+Value chain contacts,22
+Value chain contacts,20
+Value chain contacts,21
+Value chain contacts,23
+Value chain contacts,22
+Value chain contacts,23
+Value chain contacts,22
+Value chain contacts,17
+Value chain contacts,22
+Value chain contacts,13
+Value chain contacts,17
+Value chain contacts,12
+Value chain contacts,13
+Value chain contacts,17
+Value chain contacts,18
+Value chain contacts,20
+Value chain contacts,13
+Value chain contacts,13
+Value chain contacts,10
+Value chain contacts,12
+Value chain contacts,12
+Value chain contacts,27
+Value chain contacts,29
+Value chain contacts,11
+Value chain contacts,39
+Value chain contacts,12
+Value chain contacts,14
+Value chain contacts,10
+Value chain contacts,11
+Value chain contacts,10
+Value chain contacts,29
+Value chain contacts,19
+Value chain contacts,14
+Value chain contacts,28
+Value chain contacts,13
+Value chain contacts,28
+Value chain contacts,11
+Value chain contacts,12
+Value chain contacts,33
+Value chain contacts,14
+Value chain contacts,17
+Value chain contacts,17
+Value chain contacts,21
+Value chain contacts,17
+Value chain contacts,17
+Value chain contacts,13
+Value chain contacts,20
+Value chain contacts,14
+Value chain contacts,20
+Value chain contacts,16
+Value chain contacts,12
+Value chain contacts,17
+Value chain contacts,26
+Value chain contacts,23
+Value chain contacts,21
+Value chain contacts,25
+Value chain contacts,22
+Value chain contacts,19
+Value chain contacts,22
+Value chain contacts,19
+Value chain contacts,12
+Value chain contacts,21
+Value chain contacts,18
+Value chain contacts,23
+Value chain contacts,21
+Value chain contacts,20
+Value chain contacts,33
+Value chain contacts,21
+Value chain contacts,15
+Value chain contacts,17
+Value chain contacts,17
+Value chain contacts,12
+Value chain contacts,17
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,17
+Value chain contacts,17
+Value chain contacts,21
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,15
+Value chain contacts,14
+Value chain contacts,16
+Value chain contacts,16
+Value chain contacts,10
+Value chain contacts,16
+Value chain contacts,15
+Value chain contacts,11
+Value chain contacts,18
+Value chain contacts,14
+Value chain contacts,21
+Value chain contacts,21
+Value chain contacts,15
+Value chain contacts,18
+Value chain contacts,13
+Value chain contacts,12
+Training,2
+Training,15
+Training,1
+Training,2
+Training,1
+Training,0
+Training,0
+Training,0
+Training,0
+Training,2
+Training,0
+Training,1
+Training,0
+Training,1
+Training,0
+Training,1
+Training,0
+Training,1
+Training,1
+Training,0
+Training,2
+Training,0
+Training,0
+Training,1
+Training,1
+Training,1
+Training,1
+Training,0
+Training,1
+Training,0
+Training,2
+Training,1
+Training,2
+Training,1
+Training,2
+Training,5
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,2
+Training,0
+Training,0
+Training,0
+Training,0
+Training,1
+Training,2
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,1
+Training,1
+Training,0
+Training,1
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,1
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,1
+Training,2
+Training,1
+Training,10
+Training,0
+Training,0
+Training,1
+Training,1
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,17
+Training,11
+Training,1
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,1
+Training,1
+Training,8
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,14
+Training,1
+Training,0
+Training,0
+Training,15
+Training,0
+Training,0
+Training,0
+Training,4
+Training,15
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,1
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,1
+Training,0
+Training,0
+Training,28
+Training,0
+Training,0
+Training,0
+Training,3
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Training,0
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,30
+Decision making,31
+Decision making,28
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,25
+Decision making,30
+Decision making,30
+Decision making,31
+Decision making,32
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,32
+Decision making,31
+Decision making,31
+Decision making,30
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,33
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,29
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,30
+Decision making,32
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,31
+Decision making,32
+Decision making,31
+Decision making,31
+Decision making,28
+Decision making,29
+Decision making,32
+Decision making,30
+Decision making,32
+Decision making,31
+Decision making,32
+Decision making,31
+Decision making,33
+Decision making,32
+Decision making,31
+Decision making,32
+Decision making,32
+Decision making,33
+Decision making,33
+Decision making,31
+Decision making,30
+Decision making,32
+Decision making,31
+Decision making,30
+Decision making,31
+Decision making,30
+Decision making,32
+Decision making,33
+Decision making,33
+Decision making,29
+Decision making,28
+Decision making,32
+Decision making,30
+Decision making,32
+Decision making,32
+Decision making,27
+Decision making,30
+Decision making,30
+Decision making,29
+Decision making,25
+Decision making,27
+Decision making,28
+Decision making,31
+Decision making,28
+Decision making,28
+Decision making,29
+Decision making,30
+Decision making,28
+Decision making,31
+Decision making,27
+Decision making,28
+Decision making,27
+Decision making,25
+Decision making,27
+Decision making,32
+Decision making,30
+Decision making,32
+Decision making,30
+Decision making,27
+Decision making,29
+Decision making,31
+Decision making,27
+Decision making,32
+Decision making,30
+Decision making,32
+Decision making,28
+Decision making,28
+Decision making,27
+Decision making,26
+Decision making,25
+Decision making,36
+Decision making,26
+Decision making,26
+Decision making,26
+Decision making,26
+Decision making,26
+Decision making,26
+Decision making,26
+Decision making,26
+Decision making,26
+Decision making,23
+Decision making,27
+Decision making,25
+Decision making,28
+Decision making,27
+Decision making,28
+Decision making,30
+Decision making,29
+Decision making,28
+Decision making,27
+Decision making,29
+Decision making,28
+Decision making,30
+Decision making,30
+Decision making,29
+Decision making,30
+Decision making,27
+Decision making,28
+Decision making,26
+Decision making,27
+Decision making,29
+Decision making,28
+Decision making,26
+Decision making,26
+Decision making,26
+Decision making,28
+Decision making,28
+Decision making,28
+Decision making,26
+Decision making,25
+Decision making,28
+Decision making,27
+Decision making,25
+Decision making,28
+Decision making,29
+Decision making,26
+Decision making,28
+Decision making,26
+Decision making,26
+Decision making,28
+Decision making,26
+Decision making,28
+Decision making,28
+Decision making,26
+Decision making,26
+Decision making,26
+Decision making,26
+Decision making,26
+Decision making,27
+Decision making,38
+Decision making,26
+Decision making,33
+Decision making,37
+Decision making,31
+Decision making,36
+Decision making,32
+Decision making,33
+Decision making,33
+Decision making,30
+Decision making,28
+Decision making,29
+Decision making,34
+Decision making,29
+Decision making,31
+Decision making,30
+Decision making,29
+Decision making,30
+Decision making,32
+Decision making,27
+Decision making,28
+Decision making,33
+Decision making,28
+Decision making,32
+Decision making,33
+Decision making,30
+Decision making,30
+Decision making,38
+Decision making,32
+Decision making,28
+Decision making,30
+Decision making,29
+Decision making,35
+Decision making,36
+Decision making,29
+Decision making,34
+Decision making,31
+Decision making,27
+Decision making,27
+Decision making,33
+Decision making,33
+Decision making,28
+Decision making,30
+Decision making,28
+Decision making,24
+Decision making,30
+Decision making,30
+Decision making,35
+Decision making,28
+Decision making,33
+Decision making,32
+Decision making,32
+Decision making,33
+Decision making,17
+Decision making,32
+Decision making,31
+Decision making,28
+Decision making,28
+Decision making,31
+Decision making,37
+Decision making,31
+Decision making,30
+Decision making,30
+Decision making,33
+Decision making,36
+Decision making,27
+Decision making,28
+Decision making,32
+Decision making,25
+Decision making,24
+Decision making,25
+Decision making,27
+Decision making,27
+Decision making,30
+Decision making,29
+Decision making,30
+Decision making,29
+Decision making,27
+Decision making,25
+Decision making,28
+Decision making,27
+Decision making,27
+Decision making,28
+Decision making,26
+Decision making,33
+Decision making,27
+Decision making,25
+Decision making,30
+Decision making,28
+Decision making,29
+Decision making,25
+Decision making,29
+Decision making,27
+Decision making,27
+Decision making,28
+Decision making,27
+Decision making,32
+Decision making,33
+Decision making,35
+Decision making,28
+Decision making,26
+Decision making,40
+Decision making,31
+Decision making,32
+Decision making,32
+Decision making,30
+Decision making,32
+Decision making,33
+Decision making,29
+Decision making,31
+Decision making,33
+Decision making,31
+Decision making,34
+Decision making,35
+Decision making,32
+Decision making,35
+Decision making,35
+Decision making,35
+Decision making,32
+Decision making,32
+Decision making,37
+Decision making,33
+Decision making,32
+Decision making,33
+Decision making,33
+Decision making,16
+Decision making,21
+Decision making,26
+Decision making,23
+Decision making,24
+Decision making,25
+Decision making,18
+Decision making,35
+Decision making,22
+Decision making,22
+Decision making,23
+Decision making,21
+Decision making,25
+Decision making,23
+Decision making,25
+Decision making,13
+Decision making,27
+Decision making,25
+Decision making,34
+Decision making,23
+Decision making,33
+Decision making,31
+Decision making,27
+Decision making,29
+Decision making,26
+Decision making,28
+Decision making,33
+Decision making,33
+Decision making,34
+Decision making,30
+Decision making,40
+Decision making,35
+Decision making,31
+Decision making,34
+Decision making,40
+Decision making,33
+Decision making,40
+Decision making,40
+Decision making,36
+Decision making,36
+Decision making,28
+Decision making,31
+Decision making,29
+Decision making,37
+Decision making,33
+Decision making,40
+Decision making,33
+Decision making,32
+Decision making,31
+Decision making,31
+Decision making,36
+Decision making,34
+Decision making,33
+Decision making,28
+Decision making,33
+Decision making,37
+Decision making,32
+Farmers satisfaction,43
+Farmers satisfaction,40
+Farmers satisfaction,39
+Farmers satisfaction,41
+Farmers satisfaction,40
+Farmers satisfaction,41
+Farmers satisfaction,43
+Farmers satisfaction,42
+Farmers satisfaction,40
+Farmers satisfaction,42
+Farmers satisfaction,45
+Farmers satisfaction,38
+Farmers satisfaction,43
+Farmers satisfaction,39
+Farmers satisfaction,41
+Farmers satisfaction,40
+Farmers satisfaction,40
+Farmers satisfaction,41
+Farmers satisfaction,45
+Farmers satisfaction,37
+Farmers satisfaction,41
+Farmers satisfaction,44
+Farmers satisfaction,41
+Farmers satisfaction,42
+Farmers satisfaction,42
+Farmers satisfaction,41
+Farmers satisfaction,41
+Farmers satisfaction,42
+Farmers satisfaction,42
+Farmers satisfaction,41
+Farmers satisfaction,40
+Farmers satisfaction,40
+Farmers satisfaction,39
+Farmers satisfaction,42
+Farmers satisfaction,40
+Farmers satisfaction,35
+Farmers satisfaction,30
+Farmers satisfaction,32
+Farmers satisfaction,33
+Farmers satisfaction,31
+Farmers satisfaction,31
+Farmers satisfaction,34
+Farmers satisfaction,33
+Farmers satisfaction,34
+Farmers satisfaction,35
+Farmers satisfaction,34
+Farmers satisfaction,37
+Farmers satisfaction,35
+Farmers satisfaction,33
+Farmers satisfaction,31
+Farmers satisfaction,32
+Farmers satisfaction,33
+Farmers satisfaction,30
+Farmers satisfaction,31
+Farmers satisfaction,33
+Farmers satisfaction,32
+Farmers satisfaction,31
+Farmers satisfaction,31
+Farmers satisfaction,34
+Farmers satisfaction,33
+Farmers satisfaction,35
+Farmers satisfaction,33
+Farmers satisfaction,33
+Farmers satisfaction,30
+Farmers satisfaction,31
+Farmers satisfaction,31
+Farmers satisfaction,33
+Farmers satisfaction,34
+Farmers satisfaction,30
+Farmers satisfaction,28
+Farmers satisfaction,30
+Farmers satisfaction,36
+Farmers satisfaction,38
+Farmers satisfaction,38
+Farmers satisfaction,38
+Farmers satisfaction,42
+Farmers satisfaction,34
+Farmers satisfaction,38
+Farmers satisfaction,29
+Farmers satisfaction,32
+Farmers satisfaction,31
+Farmers satisfaction,34
+Farmers satisfaction,35
+Farmers satisfaction,30
+Farmers satisfaction,31
+Farmers satisfaction,35
+Farmers satisfaction,30
+Farmers satisfaction,33
+Farmers satisfaction,34
+Farmers satisfaction,35
+Farmers satisfaction,30
+Farmers satisfaction,29
+Farmers satisfaction,30
+Farmers satisfaction,34
+Farmers satisfaction,36
+Farmers satisfaction,32
+Farmers satisfaction,35
+Farmers satisfaction,33
+Farmers satisfaction,36
+Farmers satisfaction,37
+Farmers satisfaction,39
+Farmers satisfaction,36
+Farmers satisfaction,37
+Farmers satisfaction,38
+Farmers satisfaction,35
+Farmers satisfaction,35
+Farmers satisfaction,34
+Farmers satisfaction,39
+Farmers satisfaction,36
+Farmers satisfaction,35
+Farmers satisfaction,33
+Farmers satisfaction,32
+Farmers satisfaction,40
+Farmers satisfaction,31
+Farmers satisfaction,28
+Farmers satisfaction,32
+Farmers satisfaction,31
+Farmers satisfaction,33
+Farmers satisfaction,30
+Farmers satisfaction,37
+Farmers satisfaction,36
+Farmers satisfaction,35
+Farmers satisfaction,38
+Farmers satisfaction,30
+Farmers satisfaction,32
+Farmers satisfaction,33
+Farmers satisfaction,28
+Farmers satisfaction,28
+Farmers satisfaction,22
+Farmers satisfaction,22
+Farmers satisfaction,35
+Farmers satisfaction,22
+Farmers satisfaction,22
+Farmers satisfaction,35
+Farmers satisfaction,22
+Farmers satisfaction,22
+Farmers satisfaction,22
+Farmers satisfaction,22
+Farmers satisfaction,35
+Farmers satisfaction,22
+Farmers satisfaction,31
+Farmers satisfaction,31
+Farmers satisfaction,32
+Farmers satisfaction,30
+Farmers satisfaction,33
+Farmers satisfaction,32
+Farmers satisfaction,21
+Farmers satisfaction,24
+Farmers satisfaction,33
+Farmers satisfaction,22
+Farmers satisfaction,35
+Farmers satisfaction,35
+Farmers satisfaction,34
+Farmers satisfaction,33
+Farmers satisfaction,33
+Farmers satisfaction,31
+Farmers satisfaction,30
+Farmers satisfaction,31
+Farmers satisfaction,28
+Farmers satisfaction,29
+Farmers satisfaction,33
+Farmers satisfaction,30
+Farmers satisfaction,29
+Farmers satisfaction,29
+Farmers satisfaction,29
+Farmers satisfaction,33
+Farmers satisfaction,31
+Farmers satisfaction,33
+Farmers satisfaction,29
+Farmers satisfaction,32
+Farmers satisfaction,32
+Farmers satisfaction,31
+Farmers satisfaction,29
+Farmers satisfaction,31
+Farmers satisfaction,27
+Farmers satisfaction,29
+Farmers satisfaction,29
+Farmers satisfaction,29
+Farmers satisfaction,29
+Farmers satisfaction,29
+Farmers satisfaction,29
+Farmers satisfaction,29
+Farmers satisfaction,27
+Farmers satisfaction,29
+Farmers satisfaction,29
+Farmers satisfaction,28
+Farmers satisfaction,29
+Farmers satisfaction,29
+Farmers satisfaction,31
+Farmers satisfaction,44
+Farmers satisfaction,36
+Farmers satisfaction,34
+Farmers satisfaction,44
+Farmers satisfaction,36
+Farmers satisfaction,34
+Farmers satisfaction,38
+Farmers satisfaction,30
+Farmers satisfaction,35
+Farmers satisfaction,31
+Farmers satisfaction,34
+Farmers satisfaction,36
+Farmers satisfaction,33
+Farmers satisfaction,31
+Farmers satisfaction,30
+Farmers satisfaction,31
+Farmers satisfaction,32
+Farmers satisfaction,30
+Farmers satisfaction,31
+Farmers satisfaction,36
+Farmers satisfaction,37
+Farmers satisfaction,31
+Farmers satisfaction,32
+Farmers satisfaction,33
+Farmers satisfaction,32
+Farmers satisfaction,33
+Farmers satisfaction,31
+Farmers satisfaction,31
+Farmers satisfaction,35
+Farmers satisfaction,28
+Farmers satisfaction,30
+Farmers satisfaction,33
+Farmers satisfaction,36
+Farmers satisfaction,36
+Farmers satisfaction,26
+Farmers satisfaction,30
+Farmers satisfaction,27
+Farmers satisfaction,26
+Farmers satisfaction,26
+Farmers satisfaction,26
+Farmers satisfaction,26
+Farmers satisfaction,45
+Farmers satisfaction,29
+Farmers satisfaction,25
+Farmers satisfaction,25
+Farmers satisfaction,25
+Farmers satisfaction,27
+Farmers satisfaction,28
+Farmers satisfaction,19
+Farmers satisfaction,27
+Farmers satisfaction,24
+Farmers satisfaction,23
+Farmers satisfaction,24
+Farmers satisfaction,20
+Farmers satisfaction,27
+Farmers satisfaction,28
+Farmers satisfaction,27
+Farmers satisfaction,23
+Farmers satisfaction,25
+Farmers satisfaction,29
+Farmers satisfaction,28
+Farmers satisfaction,25
+Farmers satisfaction,26
+Farmers satisfaction,26
+Farmers satisfaction,34
+Farmers satisfaction,33
+Farmers satisfaction,33
+Farmers satisfaction,33
+Farmers satisfaction,34
+Farmers satisfaction,33
+Farmers satisfaction,37
+Farmers satisfaction,34
+Farmers satisfaction,37
+Farmers satisfaction,34
+Farmers satisfaction,36
+Farmers satisfaction,35
+Farmers satisfaction,33
+Farmers satisfaction,37
+Farmers satisfaction,36
+Farmers satisfaction,35
+Farmers satisfaction,34
+Farmers satisfaction,35
+Farmers satisfaction,31
+Farmers satisfaction,34
+Farmers satisfaction,35
+Farmers satisfaction,32
+Farmers satisfaction,35
+Farmers satisfaction,34
+Farmers satisfaction,34
+Farmers satisfaction,37
+Farmers satisfaction,32
+Farmers satisfaction,32
+Farmers satisfaction,32
+Farmers satisfaction,35
+Farmers satisfaction,34
+Farmers satisfaction,34
+Farmers satisfaction,40
+Farmers satisfaction,37
+Farmers satisfaction,39
+Farmers satisfaction,43
+Farmers satisfaction,37
+Farmers satisfaction,37
+Farmers satisfaction,37
+Farmers satisfaction,45
+Farmers satisfaction,44
+Farmers satisfaction,43
+Farmers satisfaction,42
+Farmers satisfaction,41
+Farmers satisfaction,38
+Farmers satisfaction,31
+Farmers satisfaction,33
+Farmers satisfaction,41
+Farmers satisfaction,40
+Farmers satisfaction,38
+Farmers satisfaction,38
+Farmers satisfaction,36
+Farmers satisfaction,39
+Farmers satisfaction,38
+Farmers satisfaction,34
+Farmers satisfaction,41
+Farmers satisfaction,36
+Farmers satisfaction,36
+Farmers satisfaction,38
+Farmers satisfaction,38
+Farmers satisfaction,36
+Farmers satisfaction,29
+Farmers satisfaction,27
+Farmers satisfaction,31
+Farmers satisfaction,26
+Farmers satisfaction,28
+Farmers satisfaction,28
+Farmers satisfaction,30
+Farmers satisfaction,34
+Farmers satisfaction,31
+Farmers satisfaction,30
+Farmers satisfaction,42
+Farmers satisfaction,26
+Farmers satisfaction,28
+Farmers satisfaction,31
+Farmers satisfaction,35
+Farmers satisfaction,32
+Farmers satisfaction,35
+Farmers satisfaction,33
+Farmers satisfaction,28
+Farmers satisfaction,34
+Farmers satisfaction,31
+Farmers satisfaction,30
+Farmers satisfaction,34
+Farmers satisfaction,35
+Farmers satisfaction,33
+Farmers satisfaction,30
+Farmers satisfaction,33
+Farmers satisfaction,34
+Farmers satisfaction,31
+Farmers satisfaction,33
+Farmers satisfaction,33
+Farmers satisfaction,34
+Farmers satisfaction,32
+Farmers satisfaction,37
+Farmers satisfaction,33
+Farmers satisfaction,31
+Farmers satisfaction,33
+Farmers satisfaction,31
+Farmers satisfaction,34
+Farmers satisfaction,33
+Farmers satisfaction,30
+Farmers satisfaction,31
+Farmers satisfaction,34
+Farmers satisfaction,35
+Farmers satisfaction,32
+Farmers satisfaction,30
+Farmers satisfaction,33
+Farmers satisfaction,32
+Farmers satisfaction,33
+Farmers satisfaction,33
+Farmers satisfaction,35
+Farmers satisfaction,34
+Farmers satisfaction,32
+Farmers satisfaction,30
+Farmers satisfaction,30
+Farmers satisfaction,32
+Farmers satisfaction,30
+Farmers knowledge,36
+Farmers knowledge,38
+Farmers knowledge,36
+Farmers knowledge,38
+Farmers knowledge,40
+Farmers knowledge,39
+Farmers knowledge,36
+Farmers knowledge,34
+Farmers knowledge,38
+Farmers knowledge,38
+Farmers knowledge,34
+Farmers knowledge,36
+Farmers knowledge,34
+Farmers knowledge,38
+Farmers knowledge,34
+Farmers knowledge,32
+Farmers knowledge,34
+Farmers knowledge,36
+Farmers knowledge,38
+Farmers knowledge,34
+Farmers knowledge,34
+Farmers knowledge,38
+Farmers knowledge,36
+Farmers knowledge,38
+Farmers knowledge,38
+Farmers knowledge,40
+Farmers knowledge,36
+Farmers knowledge,38
+Farmers knowledge,36
+Farmers knowledge,38
+Farmers knowledge,36
+Farmers knowledge,38
+Farmers knowledge,34
+Farmers knowledge,34
+Farmers knowledge,36
+Farmers knowledge,36
+Farmers knowledge,34
+Farmers knowledge,34
+Farmers knowledge,32
+Farmers knowledge,32
+Farmers knowledge,34
+Farmers knowledge,32
+Farmers knowledge,34
+Farmers knowledge,36
+Farmers knowledge,32
+Farmers knowledge,34
+Farmers knowledge,39
+Farmers knowledge,34
+Farmers knowledge,34
+Farmers knowledge,34
+Farmers knowledge,36
+Farmers knowledge,34
+Farmers knowledge,34
+Farmers knowledge,34
+Farmers knowledge,30
+Farmers knowledge,34
+Farmers knowledge,32
+Farmers knowledge,34
+Farmers knowledge,32
+Farmers knowledge,36
+Farmers knowledge,36
+Farmers knowledge,36
+Farmers knowledge,34
+Farmers knowledge,35
+Farmers knowledge,30
+Farmers knowledge,32
+Farmers knowledge,26
+Farmers knowledge,22
+Farmers knowledge,22
+Farmers knowledge,25
+Farmers knowledge,28
+Farmers knowledge,30
+Farmers knowledge,34
+Farmers knowledge,24
+Farmers knowledge,26
+Farmers knowledge,36
+Farmers knowledge,32
+Farmers knowledge,38
+Farmers knowledge,28
+Farmers knowledge,26
+Farmers knowledge,24
+Farmers knowledge,26
+Farmers knowledge,24
+Farmers knowledge,26
+Farmers knowledge,26
+Farmers knowledge,34
+Farmers knowledge,14
+Farmers knowledge,28
+Farmers knowledge,26
+Farmers knowledge,26
+Farmers knowledge,20
+Farmers knowledge,28
+Farmers knowledge,26
+Farmers knowledge,26
+Farmers knowledge,28
+Farmers knowledge,32
+Farmers knowledge,34
+Farmers knowledge,28
+Farmers knowledge,34
+Farmers knowledge,22
+Farmers knowledge,22
+Farmers knowledge,30
+Farmers knowledge,34
+Farmers knowledge,34
+Farmers knowledge,32
+Farmers knowledge,34
+Farmers knowledge,22
+Farmers knowledge,32
+Farmers knowledge,28
+Farmers knowledge,22
+Farmers knowledge,28
+Farmers knowledge,38
+Farmers knowledge,24
+Farmers knowledge,30
+Farmers knowledge,34
+Farmers knowledge,28
+Farmers knowledge,24
+Farmers knowledge,24
+Farmers knowledge,23
+Farmers knowledge,22
+Farmers knowledge,26
+Farmers knowledge,22
+Farmers knowledge,30
+Farmers knowledge,32
+Farmers knowledge,40
+Farmers knowledge,35
+Farmers knowledge,19
+Farmers knowledge,22
+Farmers knowledge,32
+Farmers knowledge,34
+Farmers knowledge,32
+Farmers knowledge,32
+Farmers knowledge,32
+Farmers knowledge,32
+Farmers knowledge,32
+Farmers knowledge,34
+Farmers knowledge,36
+Farmers knowledge,34
+Farmers knowledge,32
+Farmers knowledge,32
+Farmers knowledge,24
+Farmers knowledge,34
+Farmers knowledge,20
+Farmers knowledge,34
+Farmers knowledge,34
+Farmers knowledge,36
+Farmers knowledge,40
+Farmers knowledge,34
+Farmers knowledge,20
+Farmers knowledge,36
+Farmers knowledge,16
+Farmers knowledge,18
+Farmers knowledge,22
+Farmers knowledge,38
+Farmers knowledge,18
+Farmers knowledge,26
+Farmers knowledge,26
+Farmers knowledge,22
+Farmers knowledge,28
+Farmers knowledge,28
+Farmers knowledge,28
+Farmers knowledge,24
+Farmers knowledge,24
+Farmers knowledge,24
+Farmers knowledge,28
+Farmers knowledge,36
+Farmers knowledge,28
+Farmers knowledge,24
+Farmers knowledge,24
+Farmers knowledge,24
+Farmers knowledge,24
+Farmers knowledge,26
+Farmers knowledge,28
+Farmers knowledge,28
+Farmers knowledge,23
+Farmers knowledge,26
+Farmers knowledge,28
+Farmers knowledge,28
+Farmers knowledge,28
+Farmers knowledge,28
+Farmers knowledge,22
+Farmers knowledge,28
+Farmers knowledge,28
+Farmers knowledge,30
+Farmers knowledge,26
+Farmers knowledge,20
+Farmers knowledge,26
+Farmers knowledge,26
+Farmers knowledge,22
+Farmers knowledge,40
+Farmers knowledge,36
+Farmers knowledge,30
+Farmers knowledge,38
+Farmers knowledge,36
+Farmers knowledge,38
+Farmers knowledge,34
+Farmers knowledge,32
+Farmers knowledge,36
+Farmers knowledge,32
+Farmers knowledge,24
+Farmers knowledge,18
+Farmers knowledge,34
+Farmers knowledge,22
+Farmers knowledge,30
+Farmers knowledge,24
+Farmers knowledge,22
+Farmers knowledge,32
+Farmers knowledge,32
+Farmers knowledge,32
+Farmers knowledge,28
+Farmers knowledge,30
+Farmers knowledge,32
+Farmers knowledge,32
+Farmers knowledge,30
+Farmers knowledge,28
+Farmers knowledge,34
+Farmers knowledge,36
+Farmers knowledge,32
+Farmers knowledge,34
+Farmers knowledge,32
+Farmers knowledge,32
+Farmers knowledge,30
+Farmers knowledge,34
+Farmers knowledge,36
+Farmers knowledge,26
+Farmers knowledge,28
+Farmers knowledge,28
+Farmers knowledge,36
+Farmers knowledge,38
+Farmers knowledge,34
+Farmers knowledge,30
+Farmers knowledge,30
+Farmers knowledge,24
+Farmers knowledge,24
+Farmers knowledge,36
+Farmers knowledge,36
+Farmers knowledge,36
+Farmers knowledge,20
+Farmers knowledge,38
+Farmers knowledge,24
+Farmers knowledge,30
+Farmers knowledge,38
+Farmers knowledge,18
+Farmers knowledge,26
+Farmers knowledge,34
+Farmers knowledge,36
+Farmers knowledge,28
+Farmers knowledge,34
+Farmers knowledge,26
+Farmers knowledge,24
+Farmers knowledge,26
+Farmers knowledge,22
+Farmers knowledge,36
+Farmers knowledge,32
+Farmers knowledge,24
+Farmers knowledge,20
+Farmers knowledge,26
+Farmers knowledge,30
+Farmers knowledge,36
+Farmers knowledge,32
+Farmers knowledge,28
+Farmers knowledge,34
+Farmers knowledge,34
+Farmers knowledge,32
+Farmers knowledge,32
+Farmers knowledge,26
+Farmers knowledge,26
+Farmers knowledge,30
+Farmers knowledge,34
+Farmers knowledge,25
+Farmers knowledge,36
+Farmers knowledge,32
+Farmers knowledge,29
+Farmers knowledge,30
+Farmers knowledge,30
+Farmers knowledge,32
+Farmers knowledge,28
+Farmers knowledge,32
+Farmers knowledge,36
+Farmers knowledge,35
+Farmers knowledge,28
+Farmers knowledge,22
+Farmers knowledge,22
+Farmers knowledge,34
+Farmers knowledge,30
+Farmers knowledge,32
+Farmers knowledge,32
+Farmers knowledge,38
+Farmers knowledge,33
+Farmers knowledge,32
+Farmers knowledge,28
+Farmers knowledge,32
+Farmers knowledge,36
+Farmers knowledge,32
+Farmers knowledge,38
+Farmers knowledge,34
+Farmers knowledge,36
+Farmers knowledge,38
+Farmers knowledge,32
+Farmers knowledge,33
+Farmers knowledge,32
+Farmers knowledge,38
+Farmers knowledge,36
+Farmers knowledge,34
+Farmers knowledge,38
+Farmers knowledge,34
+Farmers knowledge,38
+Farmers knowledge,32
+Farmers knowledge,32
+Farmers knowledge,26
+Farmers knowledge,32
+Farmers knowledge,25
+Farmers knowledge,32
+Farmers knowledge,28
+Farmers knowledge,18
+Farmers knowledge,28
+Farmers knowledge,32
+Farmers knowledge,22
+Farmers knowledge,24
+Farmers knowledge,20
+Farmers knowledge,22
+Farmers knowledge,27
+Farmers knowledge,24
+Farmers knowledge,34
+Farmers knowledge,22
+Farmers knowledge,18
+Farmers knowledge,15
+Farmers knowledge,26
+Farmers knowledge,28
+Farmers knowledge,28
+Farmers knowledge,30
+Farmers knowledge,34
+Farmers knowledge,22
+Farmers knowledge,28
+Farmers knowledge,26
+Farmers knowledge,24
+Farmers knowledge,30
+Farmers knowledge,32
+Farmers knowledge,30
+Farmers knowledge,28
+Farmers knowledge,30
+Farmers knowledge,28
+Farmers knowledge,26
+Farmers knowledge,32
+Farmers knowledge,22
+Farmers knowledge,24
+Farmers knowledge,30
+Farmers knowledge,34
+Farmers knowledge,28
+Farmers knowledge,26
+Farmers knowledge,28
+Farmers knowledge,22
+Farmers knowledge,35
+Farmers knowledge,36
+Farmers knowledge,16
+Farmers knowledge,36
+Farmers knowledge,28
+Farmers knowledge,20
+Farmers knowledge,22
+Farmers knowledge,20
+Farmers knowledge,28
+Farmers knowledge,20
+Farmers knowledge,22
+Farmers knowledge,16
+Farmers knowledge,38
+Farmers knowledge,18
+Farmers knowledge,32
+Farmers knowledge,18
+Farmers knowledge,40
+Farmers knowledge,30
+Farmers knowledge,28
+Problem faced farmers,11
+Problem faced farmers,6
+Problem faced farmers,11
+Problem faced farmers,4
+Problem faced farmers,4
+Problem faced farmers,5
+Problem faced farmers,4
+Problem faced farmers,5
+Problem faced farmers,5
+Problem faced farmers,4
+Problem faced farmers,8
+Problem faced farmers,4
+Problem faced farmers,10
+Problem faced farmers,8
+Problem faced farmers,5
+Problem faced farmers,12
+Problem faced farmers,8
+Problem faced farmers,5
+Problem faced farmers,8
+Problem faced farmers,15
+Problem faced farmers,6
+Problem faced farmers,8
+Problem faced farmers,8
+Problem faced farmers,7
+Problem faced farmers,9
+Problem faced farmers,8
+Problem faced farmers,11
+Problem faced farmers,6
+Problem faced farmers,8
+Problem faced farmers,5
+Problem faced farmers,6
+Problem faced farmers,9
+Problem faced farmers,5
+Problem faced farmers,8
+Problem faced farmers,4
+Problem faced farmers,31
+Problem faced farmers,40
+Problem faced farmers,44
+Problem faced farmers,43
+Problem faced farmers,45
+Problem faced farmers,28
+Problem faced farmers,34
+Problem faced farmers,31
+Problem faced farmers,23
+Problem faced farmers,40
+Problem faced farmers,28
+Problem faced farmers,24
+Problem faced farmers,31
+Problem faced farmers,29
+Problem faced farmers,27
+Problem faced farmers,29
+Problem faced farmers,35
+Problem faced farmers,33
+Problem faced farmers,32
+Problem faced farmers,39
+Problem faced farmers,28
+Problem faced farmers,37
+Problem faced farmers,27
+Problem faced farmers,32
+Problem faced farmers,27
+Problem faced farmers,33
+Problem faced farmers,29
+Problem faced farmers,15
+Problem faced farmers,35
+Problem faced farmers,35
+Problem faced farmers,40
+Problem faced farmers,31
+Problem faced farmers,26
+Problem faced farmers,26
+Problem faced farmers,30
+Problem faced farmers,41
+Problem faced farmers,36
+Problem faced farmers,42
+Problem faced farmers,40
+Problem faced farmers,44
+Problem faced farmers,44
+Problem faced farmers,48
+Problem faced farmers,48
+Problem faced farmers,27
+Problem faced farmers,41
+Problem faced farmers,33
+Problem faced farmers,44
+Problem faced farmers,50
+Problem faced farmers,27
+Problem faced farmers,22
+Problem faced farmers,29
+Problem faced farmers,23
+Problem faced farmers,28
+Problem faced farmers,27
+Problem faced farmers,29
+Problem faced farmers,27
+Problem faced farmers,33
+Problem faced farmers,38
+Problem faced farmers,42
+Problem faced farmers,36
+Problem faced farmers,65
+Problem faced farmers,67
+Problem faced farmers,68
+Problem faced farmers,60
+Problem faced farmers,71
+Problem faced farmers,68
+Problem faced farmers,70
+Problem faced farmers,59
+Problem faced farmers,60
+Problem faced farmers,69
+Problem faced farmers,61
+Problem faced farmers,75
+Problem faced farmers,66
+Problem faced farmers,72
+Problem faced farmers,68
+Problem faced farmers,67
+Problem faced farmers,72
+Problem faced farmers,73
+Problem faced farmers,73
+Problem faced farmers,67
+Problem faced farmers,57
+Problem faced farmers,72
+Problem faced farmers,72
+Problem faced farmers,72
+Problem faced farmers,66
+Problem faced farmers,62
+Problem faced farmers,73
+Problem faced farmers,71
+Problem faced farmers,72
+Problem faced farmers,68
+Problem faced farmers,59
+Problem faced farmers,55
+Problem faced farmers,60
+Problem faced farmers,42
+Problem faced farmers,39
+Problem faced farmers,37
+Problem faced farmers,43
+Problem faced farmers,39
+Problem faced farmers,45
+Problem faced farmers,37
+Problem faced farmers,43
+Problem faced farmers,43
+Problem faced farmers,43
+Problem faced farmers,35
+Problem faced farmers,43
+Problem faced farmers,54
+Problem faced farmers,63
+Problem faced farmers,55
+Problem faced farmers,51
+Problem faced farmers,58
+Problem faced farmers,56
+Problem faced farmers,56
+Problem faced farmers,54
+Problem faced farmers,0
+Problem faced farmers,55
+Problem faced farmers,59
+Problem faced farmers,50
+Problem faced farmers,59
+Problem faced farmers,55
+Problem faced farmers,46
+Problem faced farmers,53
+Problem faced farmers,62
+Problem faced farmers,69
+Problem faced farmers,66
+Problem faced farmers,60
+Problem faced farmers,53
+Problem faced farmers,70
+Problem faced farmers,61
+Problem faced farmers,58
+Problem faced farmers,64
+Problem faced farmers,65
+Problem faced farmers,62
+Problem faced farmers,63
+Problem faced farmers,63
+Problem faced farmers,70
+Problem faced farmers,55
+Problem faced farmers,62
+Problem faced farmers,63
+Problem faced farmers,62
+Problem faced farmers,58
+Problem faced farmers,54
+Problem faced farmers,57
+Problem faced farmers,58
+Problem faced farmers,63
+Problem faced farmers,59
+Problem faced farmers,56
+Problem faced farmers,54
+Problem faced farmers,61
+Problem faced farmers,64
+Problem faced farmers,62
+Problem faced farmers,64
+Problem faced farmers,56
+Problem faced farmers,65
+Problem faced farmers,63
+Problem faced farmers,64
+Problem faced farmers,60
+Problem faced farmers,56
+Problem faced farmers,64
+Problem faced farmers,40
+Problem faced farmers,50
+Problem faced farmers,50
+Problem faced farmers,53
+Problem faced farmers,70
+Problem faced farmers,68
+Problem faced farmers,65
+Problem faced farmers,53
+Problem faced farmers,58
+Problem faced farmers,55
+Problem faced farmers,61
+Problem faced farmers,62
+Problem faced farmers,62
+Problem faced farmers,67
+Problem faced farmers,63
+Problem faced farmers,49
+Problem faced farmers,57
+Problem faced farmers,53
+Problem faced farmers,55
+Problem faced farmers,41
+Problem faced farmers,60
+Problem faced farmers,57
+Problem faced farmers,64
+Problem faced farmers,42
+Problem faced farmers,56
+Problem faced farmers,57
+Problem faced farmers,60
+Problem faced farmers,61
+Problem faced farmers,46
+Problem faced farmers,31
+Problem faced farmers,83
+Problem faced farmers,77
+Problem faced farmers,83
+Problem faced farmers,76
+Problem faced farmers,71
+Problem faced farmers,87
+Problem faced farmers,85
+Problem faced farmers,72
+Problem faced farmers,81
+Problem faced farmers,80
+Problem faced farmers,76
+Problem faced farmers,67
+Problem faced farmers,73
+Problem faced farmers,75
+Problem faced farmers,87
+Problem faced farmers,70
+Problem faced farmers,75
+Problem faced farmers,83
+Problem faced farmers,60
+Problem faced farmers,89
+Problem faced farmers,70
+Problem faced farmers,86
+Problem faced farmers,82
+Problem faced farmers,78
+Problem faced farmers,73
+Problem faced farmers,67
+Problem faced farmers,81
+Problem faced farmers,83
+Problem faced farmers,83
+Problem faced farmers,49
+Problem faced farmers,38
+Problem faced farmers,62
+Problem faced farmers,63
+Problem faced farmers,22
+Problem faced farmers,17
+Problem faced farmers,27
+Problem faced farmers,14
+Problem faced farmers,16
+Problem faced farmers,18
+Problem faced farmers,20
+Problem faced farmers,24
+Problem faced farmers,19
+Problem faced farmers,20
+Problem faced farmers,26
+Problem faced farmers,18
+Problem faced farmers,9
+Problem faced farmers,22
+Problem faced farmers,20
+Problem faced farmers,24
+Problem faced farmers,22
+Problem faced farmers,16
+Problem faced farmers,28
+Problem faced farmers,19
+Problem faced farmers,23
+Problem faced farmers,22
+Problem faced farmers,14
+Problem faced farmers,17
+Problem faced farmers,19
+Problem faced farmers,24
+Problem faced farmers,18
+Problem faced farmers,17
+Problem faced farmers,28
+Problem faced farmers,22
+Problem faced farmers,73
+Problem faced farmers,73
+Problem faced farmers,64
+Problem faced farmers,58
+Problem faced farmers,42
+Problem faced farmers,81
+Problem faced farmers,50
+Problem faced farmers,89
+Problem faced farmers,75
+Problem faced farmers,80
+Problem faced farmers,79
+Problem faced farmers,83
+Problem faced farmers,86
+Problem faced farmers,84
+Problem faced farmers,68
+Problem faced farmers,75
+Problem faced farmers,84
+Problem faced farmers,82
+Problem faced farmers,75
+Problem faced farmers,82
+Problem faced farmers,82
+Problem faced farmers,83
+Problem faced farmers,87
+Problem faced farmers,85
+Problem faced farmers,85
+Problem faced farmers,89
+Problem faced farmers,81
+Problem faced farmers,45
+Problem faced farmers,72
+Problem faced farmers,76
+Problem faced farmers,53
+Problem faced farmers,85
+Problem faced farmers,71
+Problem faced farmers,79
+Problem faced farmers,71
+Problem faced farmers,73
+Problem faced farmers,77
+Problem faced farmers,68
+Problem faced farmers,70
+Problem faced farmers,69
+Problem faced farmers,72
+Problem faced farmers,55
+Problem faced farmers,51
+Problem faced farmers,54
+Problem faced farmers,60
+Problem faced farmers,63
+Problem faced farmers,61
+Problem faced farmers,64
+Problem faced farmers,58
+Problem faced farmers,71
+Problem faced farmers,58
+Problem faced farmers,71
+Problem faced farmers,54
+Problem faced farmers,53
+Problem faced farmers,70
+Problem faced farmers,59
+Problem faced farmers,63
+Problem faced farmers,55
+Problem faced farmers,61
+Problem faced farmers,60
+Problem faced farmers,65
+Problem faced farmers,65
+Problem faced farmers,62
+Problem faced farmers,59
+Problem faced farmers,59
+Problem faced farmers,58
+Problem faced farmers,35
+Problem faced farmers,58
+Problem faced farmers,56
+Problem faced farmers,56
+Problem faced farmers,56
+Problem faced farmers,57
+Problem faced farmers,53
+Problem faced farmers,57
+Problem faced farmers,55
+Problem faced farmers,37
+Problem faced farmers,55
+Problem faced farmers,56
+Problem faced farmers,40
+Problem faced farmers,47
+Problem faced farmers,47
+Problem faced farmers,58
+Problem faced farmers,59
+Problem faced farmers,47
+Problem faced farmers,63
+Adaptation gap,21.65540541
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0.111856823
+Adaptation gap,13.04347826
+Adaptation gap,0
+Adaptation gap,25
+Adaptation gap,0.15503876
+Adaptation gap,0
+Adaptation gap,31.32183908
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,25
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,50
+Adaptation gap,0
+Adaptation gap,33.33333333
+Adaptation gap,33.33333333
+Adaptation gap,0
+Adaptation gap,50
+Adaptation gap,13.04347826
+Adaptation gap,52.17391304
+Adaptation gap,25
+Adaptation gap,33.33333333
+Adaptation gap,2.272727273
+Adaptation gap,14.28571429
+Adaptation gap,50
+Adaptation gap,33.33333333
+Adaptation gap,54.84848485
+Adaptation gap,33.33333333
+Adaptation gap,33.33333333
+Adaptation gap,54.34782609
+Adaptation gap,13.04347826
+Adaptation gap,66.66666667
+Adaptation gap,59.75609756
+Adaptation gap,50
+Adaptation gap,33.33333333
+Adaptation gap,51.82481752
+Adaptation gap,33.33333333
+Adaptation gap,36.23188406
+Adaptation gap,53.53535354
+Adaptation gap,24.24242424
+Adaptation gap,24.24242424
+Adaptation gap,14.28571429
+Adaptation gap,6.05664488
+Adaptation gap,11.11111111
+Adaptation gap,28.125
+Adaptation gap,50
+Adaptation gap,14.28571429
+Adaptation gap,58.33333333
+Adaptation gap,14.28571429
+Adaptation gap,39.70189702
+Adaptation gap,39.25925926
+Adaptation gap,16.66666667
+Adaptation gap,6.666666667
+Adaptation gap,14.28571429
+Adaptation gap,78.22222222
+Adaptation gap,14.28571429
+Adaptation gap,53.7037037
+Adaptation gap,26
+Adaptation gap,16.66666667
+Adaptation gap,2.380952381
+Adaptation gap,53.125
+Adaptation gap,13.19444444
+Adaptation gap,4.347826087
+Adaptation gap,19.36026936
+Adaptation gap,15.27777778
+Adaptation gap,81.81818182
+Adaptation gap,0
+Adaptation gap,14.28571429
+Adaptation gap,20
+Adaptation gap,50
+Adaptation gap,16
+Adaptation gap,0
+Adaptation gap,55.55555556
+Adaptation gap,16.66666667
+Adaptation gap,56.52173913
+Adaptation gap,67.27272727
+Adaptation gap,15.38461538
+Adaptation gap,27.77777778
+Adaptation gap,19.51219512
+Adaptation gap,2.564102564
+Adaptation gap,25.34872535
+Adaptation gap,10
+Adaptation gap,50
+Adaptation gap,0
+Adaptation gap,50.87412587
+Adaptation gap,26.70454545
+Adaptation gap,23.7037037
+Adaptation gap,26.66666667
+Adaptation gap,92.80455154
+Adaptation gap,0
+Adaptation gap,51.11111111
+Adaptation gap,0
+Adaptation gap,54.16666667
+Adaptation gap,44.5998446
+Adaptation gap,28.0952381
+Adaptation gap,31.14035088
+Adaptation gap,43.07692308
+Adaptation gap,44.64153732
+Adaptation gap,26.98412698
+Adaptation gap,20.48192771
+Adaptation gap,59.26916221
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,3.703703704
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,50
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,44.44444444
+Adaptation gap,0
+Adaptation gap,24.30555556
+Adaptation gap,17.09401709
+Adaptation gap,9.090909091
+Adaptation gap,31.25
+Adaptation gap,0
+Adaptation gap,20
+Adaptation gap,9.523809524
+Adaptation gap,8.333333333
+Adaptation gap,27.27272727
+Adaptation gap,0
+Adaptation gap,0.201857085
+Adaptation gap,0
+Adaptation gap,12.5
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,6.666666667
+Adaptation gap,22.22222222
+Adaptation gap,10
+Adaptation gap,10
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,31.66666667
+Adaptation gap,12.5
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,14.28571429
+Adaptation gap,15.47619048
+Adaptation gap,24.8505291
+Adaptation gap,26.38888889
+Adaptation gap,9.656084656
+Adaptation gap,15.30934343
+Adaptation gap,21.42857143
+Adaptation gap,47.22222222
+Adaptation gap,37.87878788
+Adaptation gap,13.88888889
+Adaptation gap,32.14285714
+Adaptation gap,13.17460317
+Adaptation gap,12.5
+Adaptation gap,14.28571429
+Adaptation gap,12.5
+Adaptation gap,19.21182266
+Adaptation gap,25
+Adaptation gap,15.77380952
+Adaptation gap,18.63636364
+Adaptation gap,20.03367003
+Adaptation gap,12.5
+Adaptation gap,25
+Adaptation gap,6.100217865
+Adaptation gap,45.83333333
+Adaptation gap,18.87755102
+Adaptation gap,32.13975694
+Adaptation gap,6.575963719
+Adaptation gap,25
+Adaptation gap,11.32429534
+Adaptation gap,61.57407407
+Adaptation gap,3.95256917
+Adaptation gap,14.28571429
+Adaptation gap,12.5
+Adaptation gap,20.45454545
+Adaptation gap,8.333333333
+Adaptation gap,14.28571429
+Adaptation gap,59.72222222
+Adaptation gap,83.33333333
+Adaptation gap,0
+Adaptation gap,50
+Adaptation gap,76.31578947
+Adaptation gap,0
+Adaptation gap,77.77777778
+Adaptation gap,11.54401154
+Adaptation gap,66.66666667
+Adaptation gap,61.11111111
+Adaptation gap,16.66666667
+Adaptation gap,77.77777778
+Adaptation gap,0
+Adaptation gap,86.71973188
+Adaptation gap,0
+Adaptation gap,13.33333333
+Adaptation gap,0
+Adaptation gap,6.060606061
+Adaptation gap,2.976190476
+Adaptation gap,0
+Adaptation gap,44.11764706
+Adaptation gap,50
+Adaptation gap,18.75
+Adaptation gap,0
+Adaptation gap,25
+Adaptation gap,60
+Adaptation gap,75
+Adaptation gap,87.5
+Adaptation gap,0
+Adaptation gap,16.66666667
+Adaptation gap,21.82539683
+Adaptation gap,33.33333333
+Adaptation gap,37.71428571
+Adaptation gap,1.627311344
+Adaptation gap,29.09251243
+Adaptation gap,24.45286195
+Adaptation gap,10.31746032
+Adaptation gap,37.00516351
+Adaptation gap,24.36417749
+Adaptation gap,29.91822992
+Adaptation gap,32.60661694
+Adaptation gap,25
+Adaptation gap,20.47413793
+Adaptation gap,5.882352941
+Adaptation gap,16.19047619
+Adaptation gap,47.85353535
+Adaptation gap,11.82376565
+Adaptation gap,28.42261905
+Adaptation gap,48.61111111
+Adaptation gap,0.721500722
+Adaptation gap,42.38095238
+Adaptation gap,53.91053391
+Adaptation gap,43.25396825
+Adaptation gap,37.03703704
+Adaptation gap,16.66666667
+Adaptation gap,40.55555556
+Adaptation gap,31.27394636
+Adaptation gap,32.26150393
+Adaptation gap,29.164247
+Adaptation gap,9.523809524
+Adaptation gap,14.65941466
+Adaptation gap,14.38993106
+Adaptation gap,53.66300366
+Adaptation gap,8.333333333
+Adaptation gap,8.333333333
+Adaptation gap,14.84593838
+Adaptation gap,17.64705882
+Adaptation gap,21.95767196
+Adaptation gap,17.43589744
+Adaptation gap,6.666666667
+Adaptation gap,20
+Adaptation gap,46.38888889
+Adaptation gap,37.5
+Adaptation gap,8.333333333
+Adaptation gap,43.33333333
+Adaptation gap,22
+Adaptation gap,17.98941799
+Adaptation gap,13.49206349
+Adaptation gap,14.28571429
+Adaptation gap,16.77777778
+Adaptation gap,7.679738562
+Adaptation gap,6.049382716
+Adaptation gap,10.30092593
+Adaptation gap,5.555555556
+Adaptation gap,7.142857143
+Adaptation gap,6.442901235
+Adaptation gap,52.38095238
+Adaptation gap,14.28571429
+Adaptation gap,11.13888889
+Adaptation gap,21.05263158
+Adaptation gap,63.29365079
+Adaptation gap,2.884615385
+Adaptation gap,27.83333333
+Adaptation gap,41.48148148
+Adaptation gap,73.91304348
+Adaptation gap,5.430242272
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,78.26086957
+Adaptation gap,29.55840456
+Adaptation gap,14.28571429
+Adaptation gap,9.523809524
+Adaptation gap,0
+Adaptation gap,0
+Adaptation gap,42.78074866
+Adaptation gap,45.45454545
+Adaptation gap,64.1025641
+Adaptation gap,0
+Adaptation gap,21.42857143
+Adaptation gap,32.51461988
+Adaptation gap,5.555555556
+Adaptation gap,58.33333333
+Adaptation gap,51.2987013
+Adaptation gap,6.133333333
+Adaptation gap,8.333333333
+Adaptation gap,33.33333333
+Adaptation gap,12.5
+Adaptation gap,12.5
+Adaptation gap,63.21428571
+Adaptation gap,13.4502924
+Adaptation gap,49.70760234
+Adaptation gap,58.24561404
+Adaptation gap,42.28070175
+Adaptation gap,54.67836257
+Adaptation gap,35.64814815
+Adaptation gap,41.66666667
+Adaptation gap,57.14285714
+Adaptation gap,53.33333333
+Adaptation gap,52.77777778
+Adaptation gap,66.66666667
+Adaptation gap,64.47368421
+Adaptation gap,30.70175439
+Adaptation gap,29.62962963
+Adaptation gap,39.39014202
+Adaptation gap,53.65497076
+Adaptation gap,40.267335
+Adaptation gap,40.1754386
+Adaptation gap,38.07017544
+Adaptation gap,65.49707602
+Adaptation gap,33.33333333
+Adaptation gap,41.2037037
+Adaptation gap,37.85612536
+Adaptation gap,37.03703704
+Adaptation gap,36.57407407
+Adaptation gap,37.5
+Adaptation gap,20.17094017
+Adaptation gap,63.46153846
+Adaptation gap,53.96825397
